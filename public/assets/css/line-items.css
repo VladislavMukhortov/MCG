@@ -1,0 +1,133 @@
+#modalEstimateTemplate ul {
+    min-height: 200px;
+    list-style-type: none;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 0px;
+    padding: 10px 10px 10px 0px;
+    height: 280px;
+    overflow: auto;
+}
+
+#modalEstimateTemplate ul li {
+    border: 1px solid #ccc;
+    margin-bottom: 5px;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: bold;
+    border-radius: 5px;
+
+}
+
+#modalEstimateTemplate ul li:hover, #modalEstimateTemplate ul li.active {
+    background-color: #eaeaea;
+}
+
+#modalEstimateTemplate .active, #modalEstimateTemplate .active:hover {
+    background: #cdcdcd !important;
+    color: #000 !important;
+}
+
+#modalEstimateTemplate .selected, #modalEstimateTemplate .selected:hover {
+    background: #0084c4 !important;
+    color: #fff !important;
+}
+
+#modalEstimateTemplate .table {
+    width: 100%;
+    display: flex;
+    flex-flow: column;
+}
+
+#modalEstimateTemplate .table__head {
+    padding: 1px 5px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
+    font-weight: bold;
+}
+
+#modalEstimateTemplate .table__body {
+    width: 100%;
+    display: flex;
+    flex-flow: column;
+
+    min-height: 100px;
+    max-height: 400px;
+    overflow: auto;
+
+    border: 1px solid #ececec;
+    border-radius: 4px;
+}
+
+#modalEstimateTemplate .table__row {
+    padding: 1px 5px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+#modalEstimateTemplate .table--right > div {
+    padding: 2px 10px;
+    min-width: 100px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#modalEstimateTemplate .table__item-csi-dir.level2 {
+    margin-left: 20px;
+}
+
+#modalEstimateTemplate .table__item-csi-dir.level3 {
+    margin-left: 40px;
+}
+
+#modalEstimateTemplate .table__item-csi-dir.level4 {
+    margin-left: 60px;
+}
+
+#modalEstimateTemplate .form-control.minified {
+    padding: 0 5px;
+    height: auto;
+    width: 50px;
+    text-align: center;
+}
+
+
+#modalEstimateTemplate .table--right {
+    display: flex;
+}
+
+#modalEstimateTemplate .drop-hover {
+    background: #ececec;
+    opacity: 0.5;
+}
+
+#modalEstimateTemplate .empty-tree {
+    justify-self: center;
+    align-self: center;
+    margin-top: 40px;
+    color: #747272;
+}
+
+#modalEstimateTemplate .new-folder {
+    max-width: 70%;
+
+    display: flex;
+    justify-content: flex-end;
+}
+
+#modalEstimateTemplate .new-folder > button {
+    margin-left: 10px;
+}
+
+#modalEstimateTemplate .ni-cross-circle {
+    cursor: pointer;
+}

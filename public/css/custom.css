@@ -1,0 +1,33 @@
+.make-paid {
+    cursor: pointer;
+}
+.table .estimate-line-items {
+    white-space: nowrap;
+    overflow-x: auto;
+}
+
+.upload-droppable-area {
+    height: 100px ;
+    border: 1px solid gainsboro;
+    border-radius: 2px 2px 2px 2px;
+}
+.upload-droppable-area > label {
+    padding: 6px;
+    color: #0b1119;
+}
+.upload-droppable-area > label > span {
+    padding: 12px;
+    color: #0b1119;
+}
+
+.custom__long__text {
+    display: flex;
+    justify-content: space-between;
+}
+.show__note {
+    cursor: pointer;
+}
+
+.question__closed {
+    cursor: pointer;
+}

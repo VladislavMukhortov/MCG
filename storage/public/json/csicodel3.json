@@ -1,0 +1,1490 @@
+[
+    {
+      "id": "5f6427fa1380bd067a06c123",
+      "field_256": "<span class=\"5f6419eafed349067b9f0f9d\">Rest Interior Surfaces Preparation/Painting</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0f9d",
+          "identifier": "Rest Interior Surfaces Preparation/Painting"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb41383fd067856634a\">Window Sill/Casing/Trim Painting</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb41383fd067856634a",
+          "identifier": "Window Sill/Casing/Trim Painting"
+        }
+      ],
+      "field_253": "",
+      "code": "",
+      "field_245": "Sill",
+      "description": "Sill",
+      "field_259": " Sill",
+      "code_name": " Sill",
+      "field_260": "20 40 Sill",
+      "field_260_raw": "20 40 Sill",
+      "field_416": "40",
+      "field_416_raw": "40",
+      "field_415": "40",
+      "field_415_raw": "40",
+      "field_418": "20 40",
+      "field_418_raw": "20 40"
+    },
+    {
+      "id": "5f6427fa1380bd067a06c121",
+      "field_256": "<span class=\"5f6419eafed349067b9f0f9d\">Rest Interior Surfaces Preparation/Painting</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0f9d",
+          "identifier": "Rest Interior Surfaces Preparation/Painting"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb41383fd067856634a\">Window Sill/Casing/Trim Painting</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb41383fd067856634a",
+          "identifier": "Window Sill/Casing/Trim Painting"
+        }
+      ],
+      "field_253": "",
+      "code": "",
+      "field_245": "Trim",
+      "description": "Trim",
+      "field_259": " Trim",
+      "code_name": " Trim",
+      "field_260": "20 40 Trim",
+      "field_260_raw": "20 40 Trim",
+      "field_416": "40",
+      "field_416_raw": "40",
+      "field_415": "40",
+      "field_415_raw": "40",
+      "field_418": "20 40",
+      "field_418_raw": "20 40"
+    },
+    {
+      "id": "5f6427f91380bd067a06c11f",
+      "field_256": "<span class=\"5f6419eafed349067b9f0f9d\">Rest Interior Surfaces Preparation/Painting</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0f9d",
+          "identifier": "Rest Interior Surfaces Preparation/Painting"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb41383fd0678566344\">Door/Trim Painting</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb41383fd0678566344",
+          "identifier": "Door/Trim Painting"
+        }
+      ],
+      "field_253": "",
+      "code": "",
+      "field_245": "Trim",
+      "description": "Trim",
+      "field_259": " Trim",
+      "code_name": " Trim",
+      "field_260": "20 10 Trim",
+      "field_260_raw": "20 10 Trim",
+      "field_416": "10",
+      "field_416_raw": "10",
+      "field_415": "10",
+      "field_415_raw": "10",
+      "field_418": "20 10",
+      "field_418_raw": "20 10"
+    },
+    {
+      "id": "5f6427f91380bd067a06c11d",
+      "field_256": "<span class=\"5f6419e9fed349067b9f0f89\">Tiling</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f89",
+          "identifier": "Tiling"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb21383fd06785662f8\">Floor Tile Installation</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb21383fd06785662f8",
+          "identifier": "Floor Tile Installation"
+        }
+      ],
+      "field_253": "",
+      "code": "",
+      "field_245": "Less than 50 sq ft",
+      "description": "Less than 50 sq ft",
+      "field_259": " Less than 50 sq ft",
+      "code_name": " Less than 50 sq ft",
+      "field_260": "10 20 Less than 50 sq ft",
+      "field_260_raw": "10 20 Less than 50 sq ft",
+      "field_416": "20",
+      "field_416_raw": "20",
+      "field_415": "20",
+      "field_415_raw": "20",
+      "field_418": "10 20",
+      "field_418_raw": "10 20"
+    },
+    {
+      "id": "5f6427f91380bd067a06c11b",
+      "field_256": "<span class=\"5f6419e9fed349067b9f0f89\">Tiling</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f89",
+          "identifier": "Tiling"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb21383fd06785662f8\">Floor Tile Installation</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb21383fd06785662f8",
+          "identifier": "Floor Tile Installation"
+        }
+      ],
+      "field_253": "",
+      "code": "",
+      "field_245": "More than 50 Sq Ft",
+      "description": "More than 50 Sq Ft",
+      "field_259": " More than 50 Sq Ft",
+      "code_name": " More than 50 Sq Ft",
+      "field_260": "10 20 More than 50 Sq Ft",
+      "field_260_raw": "10 20 More than 50 Sq Ft",
+      "field_416": "20",
+      "field_416_raw": "20",
+      "field_415": "20",
+      "field_415_raw": "20",
+      "field_418": "10 20",
+      "field_418_raw": "10 20"
+    },
+    {
+      "id": "5f6427f91380bd067a06c118",
+      "field_256": "<span class=\"5f6419e9fed349067b9f0f83\">Wall & Ceiling Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f83",
+          "identifier": "Wall & Ceiling Installation"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb21383fd06785662e2\">Gypsum Board Installation - Soffits & Columns - (Sheetrock/Drywall)</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb21383fd06785662e2",
+          "identifier": "Gypsum Board Installation - Soffits & Columns - (Sheetrock/Drywall)"
+        }
+      ],
+      "field_253": "",
+      "code": "",
+      "field_245": "Gypsum Soffits & Columns - Height Over 8'",
+      "description": "Gypsum Soffits & Columns - Height Over 8'",
+      "field_259": " Gypsum Soffits & Columns - Height Over 8'",
+      "code_name": " Gypsum Soffits & Columns - Height Over 8'",
+      "field_260": "07 20 Gypsum Soffits & Columns - Height Over 8'",
+      "field_260_raw": "07 20 Gypsum Soffits & Columns - Height Over 8'",
+      "field_416": "20",
+      "field_416_raw": "20",
+      "field_415": "20",
+      "field_415_raw": "20",
+      "field_418": "07 20",
+      "field_418_raw": "07 20"
+    },
+    {
+      "id": "5f6427f91380bd067a06c116",
+      "field_256": "<span class=\"5f6419e9fed349067b9f0f83\">Wall & Ceiling Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f83",
+          "identifier": "Wall & Ceiling Installation"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb21383fd06785662e2\">Gypsum Board Installation - Soffits & Columns - (Sheetrock/Drywall)</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb21383fd06785662e2",
+          "identifier": "Gypsum Board Installation - Soffits & Columns - (Sheetrock/Drywall)"
+        }
+      ],
+      "field_253": "",
+      "code": "",
+      "field_245": "Gypsum Soffits & Columns - Height Up To 8'",
+      "description": "Gypsum Soffits & Columns - Height Up To 8'",
+      "field_259": " Gypsum Soffits & Columns - Height Up To 8'",
+      "code_name": " Gypsum Soffits & Columns - Height Up To 8'",
+      "field_260": "07 20 Gypsum Soffits & Columns - Height Up To 8'",
+      "field_260_raw": "07 20 Gypsum Soffits & Columns - Height Up To 8'",
+      "field_416": "20",
+      "field_416_raw": "20",
+      "field_415": "20",
+      "field_415_raw": "20",
+      "field_418": "07 20",
+      "field_418_raw": "07 20"
+    },
+    {
+      "id": "5f6427f91380bd067a06c114",
+      "field_256": "<span class=\"5f6419eafed349067b9f0f95\">Kitchen Cabinets Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0f95",
+          "identifier": "Kitchen Cabinets Installation"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb41383fd067856632c\">Kitchen Island Installation</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb41383fd067856632c",
+          "identifier": "Kitchen Island Installation"
+        }
+      ],
+      "field_253": "",
+      "code": "",
+      "field_245": "Kitchen Island Cabinets/Accessories/Paneling",
+      "description": "Kitchen Island Cabinets/Accessories/Paneling",
+      "field_259": " Kitchen Island Cabinets/Accessories/Paneling",
+      "code_name": " Kitchen Island Cabinets/Accessories/Paneling",
+      "field_260": "16 20 Kitchen Island Cabinets/Accessories/Paneling",
+      "field_260_raw": "16 20 Kitchen Island Cabinets/Accessories/Paneling",
+      "field_416": "20",
+      "field_416_raw": "20",
+      "field_415": "20",
+      "field_415_raw": "20",
+      "field_418": "16 20",
+      "field_418_raw": "16 20"
+    },
+    {
+      "id": "5f6427f91380bd067a06c112",
+      "field_256": "<span class=\"5f6419eafed349067b9f0f95\">Kitchen Cabinets Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0f95",
+          "identifier": "Kitchen Cabinets Installation"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb41383fd067856632c\">Kitchen Island Installation</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb41383fd067856632c",
+          "identifier": "Kitchen Island Installation"
+        }
+      ],
+      "field_253": "",
+      "code": "",
+      "field_245": "Kitchen Island Framing/Support",
+      "description": "Kitchen Island Framing/Support",
+      "field_259": " Kitchen Island Framing/Support",
+      "code_name": " Kitchen Island Framing/Support",
+      "field_260": "16 20 Kitchen Island Framing/Support",
+      "field_260_raw": "16 20 Kitchen Island Framing/Support",
+      "field_416": "20",
+      "field_416_raw": "20",
+      "field_415": "20",
+      "field_415_raw": "20",
+      "field_418": "16 20",
+      "field_418_raw": "16 20"
+    },
+    {
+      "id": "5f6427f91380bd067a06c110",
+      "field_256": "<span class=\"5f6419e9fed349067b9f0f83\">Wall & Ceiling Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f83",
+          "identifier": "Wall & Ceiling Installation"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb21383fd06785662e4\">Gypsum Board Installation - Interior Walls - (Sheetrock/Drywall)</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb21383fd06785662e4",
+          "identifier": "Gypsum Board Installation - Interior Walls - (Sheetrock/Drywall)"
+        }
+      ],
+      "field_253": "",
+      "code": "",
+      "field_245": "Gypsum Installation - Wall - Height Over 8'",
+      "description": "Gypsum Installation - Wall - Height Over 8'",
+      "field_259": " Gypsum Installation - Wall - Height Over 8'",
+      "code_name": " Gypsum Installation - Wall - Height Over 8'",
+      "field_260": "07 30 Gypsum Installation - Wall - Height Over 8'",
+      "field_260_raw": "07 30 Gypsum Installation - Wall - Height Over 8'",
+      "field_416": "30",
+      "field_416_raw": "30",
+      "field_415": "30",
+      "field_415_raw": "30",
+      "field_418": "07 30",
+      "field_418_raw": "07 30"
+    },
+    {
+      "id": "5f6427f91380bd067a06c10e",
+      "field_256": "<span class=\"5f6419e9fed349067b9f0f83\">Wall & Ceiling Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f83",
+          "identifier": "Wall & Ceiling Installation"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb21383fd06785662e4\">Gypsum Board Installation - Interior Walls - (Sheetrock/Drywall)</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb21383fd06785662e4",
+          "identifier": "Gypsum Board Installation - Interior Walls - (Sheetrock/Drywall)"
+        }
+      ],
+      "field_253": "",
+      "code": "",
+      "field_245": "Gypsum Installation - Wall - Height Up To 8'",
+      "description": "Gypsum Installation - Wall - Height Up To 8'",
+      "field_259": " Gypsum Installation - Wall - Height Up To 8'",
+      "code_name": " Gypsum Installation - Wall - Height Up To 8'",
+      "field_260": "07 30 Gypsum Installation - Wall - Height Up To 8'",
+      "field_260_raw": "07 30 Gypsum Installation - Wall - Height Up To 8'",
+      "field_416": "30",
+      "field_416_raw": "30",
+      "field_415": "30",
+      "field_415_raw": "30",
+      "field_418": "07 30",
+      "field_418_raw": "07 30"
+    },
+    {
+      "id": "5f6427f91380bd067a06c10c",
+      "field_256": "<span class=\"5f6419e9fed349067b9f0f8b\">Flooring & Transitions</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f8b",
+          "identifier": "Flooring & Transitions"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb31383fd067856630a\">Threshold Installation</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb31383fd067856630a",
+          "identifier": "Threshold Installation"
+        }
+      ],
+      "field_253": "",
+      "code": "",
+      "field_245": "Threshold Installation - Door Width (Up To 3')",
+      "description": "Threshold Installation - Door Width (Up To 3')",
+      "field_259": " Threshold Installation - Door Width (Up To 3')",
+      "code_name": " Threshold Installation - Door Width (Up To 3')",
+      "field_260": "11 50 Threshold Installation - Door Width (Up To 3')",
+      "field_260_raw": "11 50 Threshold Installation - Door Width (Up To 3')",
+      "field_416": "50",
+      "field_416_raw": "50",
+      "field_415": "50",
+      "field_415_raw": "50",
+      "field_418": "11 50",
+      "field_418_raw": "11 50"
+    },
+    {
+      "id": "5f6427f91380bd067a06c10a",
+      "field_256": "<span class=\"5f6419e9fed349067b9f0f8b\">Flooring & Transitions</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f8b",
+          "identifier": "Flooring & Transitions"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb31383fd067856630a\">Threshold Installation</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb31383fd067856630a",
+          "identifier": "Threshold Installation"
+        }
+      ],
+      "field_253": "",
+      "code": "",
+      "field_245": "Threshold Installation - Over 3'",
+      "description": "Threshold Installation - Over 3'",
+      "field_259": " Threshold Installation - Over 3'",
+      "code_name": " Threshold Installation - Over 3'",
+      "field_260": "11 50 Threshold Installation - Over 3'",
+      "field_260_raw": "11 50 Threshold Installation - Over 3'",
+      "field_416": "50",
+      "field_416_raw": "50",
+      "field_415": "50",
+      "field_415_raw": "50",
+      "field_418": "11 50",
+      "field_418_raw": "11 50"
+    },
+    {
+      "id": "5f6427f91380bd067a06c108",
+      "field_256": "<span class=\"5f6419e9fed349067b9f0f83\">Wall & Ceiling Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f83",
+          "identifier": "Wall & Ceiling Installation"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb21383fd06785662e0\">Gypsum Board Installation - Ceiling - (Sheetrock/Drywall)</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb21383fd06785662e0",
+          "identifier": "Gypsum Board Installation - Ceiling - (Sheetrock/Drywall)"
+        }
+      ],
+      "field_253": "",
+      "code": "",
+      "field_245": "Ceiling Gypsum - Heights Over 8'",
+      "description": "Ceiling Gypsum - Heights Over 8'",
+      "field_259": " Ceiling Gypsum - Heights Over 8'",
+      "code_name": " Ceiling Gypsum - Heights Over 8'",
+      "field_260": "07 10 Ceiling Gypsum - Heights Over 8'",
+      "field_260_raw": "07 10 Ceiling Gypsum - Heights Over 8'",
+      "field_416": "10",
+      "field_416_raw": "10",
+      "field_415": "10",
+      "field_415_raw": "10",
+      "field_418": "07 10",
+      "field_418_raw": "07 10"
+    },
+    {
+      "id": "5f6427f91380bd067a06c106",
+      "field_256": "<span class=\"5f6419e9fed349067b9f0f83\">Wall & Ceiling Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f83",
+          "identifier": "Wall & Ceiling Installation"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb21383fd06785662e0\">Gypsum Board Installation - Ceiling - (Sheetrock/Drywall)</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb21383fd06785662e0",
+          "identifier": "Gypsum Board Installation - Ceiling - (Sheetrock/Drywall)"
+        }
+      ],
+      "field_253": "",
+      "code": "",
+      "field_245": "Ceiling Gypsum - Heights Up To 8'",
+      "description": "Ceiling Gypsum - Heights Up To 8'",
+      "field_259": " Ceiling Gypsum - Heights Up To 8'",
+      "code_name": " Ceiling Gypsum - Heights Up To 8'",
+      "field_260": "07 10 Ceiling Gypsum - Heights Up To 8'",
+      "field_260_raw": "07 10 Ceiling Gypsum - Heights Up To 8'",
+      "field_416": "10",
+      "field_416_raw": "10",
+      "field_415": "10",
+      "field_415_raw": "10",
+      "field_418": "07 10",
+      "field_418_raw": "07 10"
+    },
+    {
+      "id": "5f6427f91380bd067a06c104",
+      "field_256": "<span class=\"5f6419e9fed349067b9f0f7b\">Interior Framing</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f7b",
+          "identifier": "Interior Framing"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb11383fd06785662c8\">Ceiling Framing</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb11383fd06785662c8",
+          "identifier": "Ceiling Framing"
+        }
+      ],
+      "field_253": "",
+      "code": "",
+      "field_245": "Ceiling Framing - Heights Over 8'",
+      "description": "Ceiling Framing - Heights Over 8'",
+      "field_259": " Ceiling Framing - Heights Over 8'",
+      "code_name": " Ceiling Framing - Heights Over 8'",
+      "field_260": "03 20 Ceiling Framing - Heights Over 8'",
+      "field_260_raw": "03 20 Ceiling Framing - Heights Over 8'",
+      "field_416": "20",
+      "field_416_raw": "20",
+      "field_415": "20",
+      "field_415_raw": "20",
+      "field_418": "03 20",
+      "field_418_raw": "03 20"
+    },
+    {
+      "id": "5f6427f91380bd067a06c102",
+      "field_256": "<span class=\"5f6419e9fed349067b9f0f7b\">Interior Framing</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f7b",
+          "identifier": "Interior Framing"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb11383fd06785662c8\">Ceiling Framing</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb11383fd06785662c8",
+          "identifier": "Ceiling Framing"
+        }
+      ],
+      "field_253": "",
+      "code": "",
+      "field_245": "Ceiling Framing - Height Up To 8'",
+      "description": "Ceiling Framing - Height Up To 8'",
+      "field_259": " Ceiling Framing - Height Up To 8'",
+      "code_name": " Ceiling Framing - Height Up To 8'",
+      "field_260": "03 20 Ceiling Framing - Height Up To 8'",
+      "field_260_raw": "03 20 Ceiling Framing - Height Up To 8'",
+      "field_416": "20",
+      "field_416_raw": "20",
+      "field_415": "20",
+      "field_415_raw": "20",
+      "field_418": "03 20",
+      "field_418_raw": "03 20"
+    },
+    {
+      "id": "5f6427f91380bd067a06c100",
+      "field_256": "<span class=\"5f6419e9fed349067b9f0f7b\">Interior Framing</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f7b",
+          "identifier": "Interior Framing"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb11383fd06785662c6\">Wall Framing</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb11383fd06785662c6",
+          "identifier": "Wall Framing"
+        }
+      ],
+      "field_253": "",
+      "code": "",
+      "field_245": "Wall Framing - Height Over 8'",
+      "description": "Wall Framing - Height Over 8'",
+      "field_259": " Wall Framing - Height Over 8'",
+      "code_name": " Wall Framing - Height Over 8'",
+      "field_260": "03 10 Wall Framing - Height Over 8'",
+      "field_260_raw": "03 10 Wall Framing - Height Over 8'",
+      "field_416": "10",
+      "field_416_raw": "10",
+      "field_415": "10",
+      "field_415_raw": "10",
+      "field_418": "03 10",
+      "field_418_raw": "03 10"
+    },
+    {
+      "id": "5f6427f91380bd067a06c0fe",
+      "field_256": "<span class=\"5f6419e9fed349067b9f0f7b\">Interior Framing</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f7b",
+          "identifier": "Interior Framing"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb11383fd06785662c6\">Wall Framing</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb11383fd06785662c6",
+          "identifier": "Wall Framing"
+        }
+      ],
+      "field_253": "",
+      "code": "",
+      "field_245": "Wall Framing - Height up to 8'",
+      "description": "Wall Framing - Height up to 8'",
+      "field_259": " Wall Framing - Height up to 8'",
+      "code_name": " Wall Framing - Height up to 8'",
+      "field_260": "03 10 Wall Framing - Height up to 8'",
+      "field_260_raw": "03 10 Wall Framing - Height up to 8'",
+      "field_416": "10",
+      "field_416_raw": "10",
+      "field_415": "10",
+      "field_415_raw": "10",
+      "field_418": "03 10",
+      "field_418_raw": "03 10"
+    },
+    {
+      "id": "5f6427f91380bd067a06c0fc",
+      "field_256": "<span class=\"5f6419eafed349067b9f0f9d\">Rest Interior Surfaces Preparation/Painting</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0f9d",
+          "identifier": "Rest Interior Surfaces Preparation/Painting"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb41383fd0678566344\">Door/Trim Painting</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb41383fd0678566344",
+          "identifier": "Door/Trim Painting"
+        }
+      ],
+      "field_253": "",
+      "code": "",
+      "field_245": "Exterior/Entry Door",
+      "description": "Exterior/Entry Door",
+      "field_259": " Exterior/Entry Door",
+      "code_name": " Exterior/Entry Door",
+      "field_260": "20 10 Exterior/Entry Door",
+      "field_260_raw": "20 10 Exterior/Entry Door",
+      "field_416": "10",
+      "field_416_raw": "10",
+      "field_415": "10",
+      "field_415_raw": "10",
+      "field_418": "20 10",
+      "field_418_raw": "20 10"
+    },
+    {
+      "id": "5f6427f91380bd067a06c0fa",
+      "field_256": "<span class=\"5f6419eafed349067b9f0f9d\">Rest Interior Surfaces Preparation/Painting</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0f9d",
+          "identifier": "Rest Interior Surfaces Preparation/Painting"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb41383fd0678566344\">Door/Trim Painting</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb41383fd0678566344",
+          "identifier": "Door/Trim Painting"
+        }
+      ],
+      "field_253": "",
+      "code": "",
+      "field_245": "Interior Door",
+      "description": "Interior Door",
+      "field_259": " Interior Door",
+      "code_name": " Interior Door",
+      "field_260": "20 10 Interior Door",
+      "field_260_raw": "20 10 Interior Door",
+      "field_416": "10",
+      "field_416_raw": "10",
+      "field_415": "10",
+      "field_415_raw": "10",
+      "field_418": "20 10",
+      "field_418_raw": "20 10"
+    },
+    {
+      "id": "5f6427f81380bd067a06c0c8",
+      "field_256": "<span class=\"5f6419e9fed349067b9f0f79\">Demolition</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f79",
+          "identifier": "Demolition"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb11383fd06785662c0\">Electrical Fixtures Removal</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb11383fd06785662c0",
+          "identifier": "Electrical Fixtures Removal"
+        }
+      ],
+      "field_253": 11,
+      "code": 11,
+      "field_245": "Light Fixtures Removal",
+      "description": "Light Fixtures Removal",
+      "field_259": "11 Light Fixtures Removal",
+      "code_name": "11 Light Fixtures Removal",
+      "field_260": "02 11 Light Fixtures Removal",
+      "field_260_raw": "02 11 Light Fixtures Removal",
+      "field_416": "10",
+      "field_416_raw": "10",
+      "field_415": "",
+      "field_415_raw": "",
+      "field_418": "02 11",
+      "field_418_raw": "02 11"
+    },
+    {
+      "id": "5f6427f81380bd067a06c0c6",
+      "field_256": "<span class=\"5f6419e9fed349067b9f0f91\">Door & Window Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f91",
+          "identifier": "Door & Window Installation"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb31383fd0678566314\">Interior Doors</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb31383fd0678566314",
+          "identifier": "Interior Doors"
+        }
+      ],
+      "field_253": 11,
+      "code": 11,
+      "field_245": "Prehung Interior Door Installation",
+      "description": "Prehung Interior Door Installation",
+      "field_259": "11 Prehung Interior Door Installation",
+      "code_name": "11 Prehung Interior Door Installation",
+      "field_260": "14 11 Prehung Interior Door Installation",
+      "field_260_raw": "14 11 Prehung Interior Door Installation",
+      "field_416": "10",
+      "field_416_raw": "10",
+      "field_415": "",
+      "field_415_raw": "",
+      "field_418": "14 11",
+      "field_418_raw": "14 11"
+    },
+    {
+      "id": "5f6427f81380bd067a06c0c4",
+      "field_256": "<span class=\"5f6419eafed349067b9f0fa1\">Appliances Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0fa1",
+          "identifier": "Appliances Installation"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb51383fd0678566352\">Plumbing Appliances Installation</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb51383fd0678566352",
+          "identifier": "Plumbing Appliances Installation"
+        }
+      ],
+      "field_253": 11,
+      "code": 11,
+      "field_245": "Bathroom Plumbing Appliances Installation",
+      "description": "Bathroom Plumbing Appliances Installation",
+      "field_259": "11 Bathroom Plumbing Appliances Installation",
+      "code_name": "11 Bathroom Plumbing Appliances Installation",
+      "field_260": "22 11 Bathroom Plumbing Appliances Installation",
+      "field_260_raw": "22 11 Bathroom Plumbing Appliances Installation",
+      "field_416": "10",
+      "field_416_raw": "10",
+      "field_415": "",
+      "field_415_raw": "",
+      "field_418": "22 11",
+      "field_418_raw": "22 11"
+    },
+    {
+      "id": "5f6427f81380bd067a06c0ce",
+      "field_256": "<span class=\"5f6419e9fed349067b9f0f79\">Demolition</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f79",
+          "identifier": "Demolition"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb11383fd06785662c0\">Electrical Fixtures Removal</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb11383fd06785662c0",
+          "identifier": "Electrical Fixtures Removal"
+        }
+      ],
+      "field_253": 12,
+      "code": 12,
+      "field_245": "Light Switch/Outlet Removal",
+      "description": "Light Switch/Outlet Removal",
+      "field_259": "12 Light Switch/Outlet Removal",
+      "code_name": "12 Light Switch/Outlet Removal",
+      "field_260": "02 12 Light Switch/Outlet Removal",
+      "field_260_raw": "02 12 Light Switch/Outlet Removal",
+      "field_416": "10",
+      "field_416_raw": "10",
+      "field_415": "",
+      "field_415_raw": "",
+      "field_418": "02 12",
+      "field_418_raw": "02 12"
+    },
+    {
+      "id": "5f6427f81380bd067a06c0cc",
+      "field_256": "<span class=\"5f6419e9fed349067b9f0f91\">Door & Window Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f91",
+          "identifier": "Door & Window Installation"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb31383fd0678566314\">Interior Doors</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb31383fd0678566314",
+          "identifier": "Interior Doors"
+        }
+      ],
+      "field_253": 12,
+      "code": 12,
+      "field_245": "Interior Slab Doors & Frames (Not Prehung)",
+      "description": "Interior Slab Doors & Frames (Not Prehung)",
+      "field_259": "12 Interior Slab Doors & Frames (Not Prehung)",
+      "code_name": "12 Interior Slab Doors & Frames (Not Prehung)",
+      "field_260": "14 12 Interior Slab Doors & Frames (Not Prehung)",
+      "field_260_raw": "14 12 Interior Slab Doors & Frames (Not Prehung)",
+      "field_416": "10",
+      "field_416_raw": "10",
+      "field_415": "",
+      "field_415_raw": "",
+      "field_418": "14 12",
+      "field_418_raw": "14 12"
+    },
+    {
+      "id": "5f6427f81380bd067a06c0ca",
+      "field_256": "<span class=\"5f6419eafed349067b9f0fa1\">Appliances Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0fa1",
+          "identifier": "Appliances Installation"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb51383fd0678566352\">Plumbing Appliances Installation</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb51383fd0678566352",
+          "identifier": "Plumbing Appliances Installation"
+        }
+      ],
+      "field_253": 12,
+      "code": 12,
+      "field_245": "Kitchen Plumbing Appliances Installation",
+      "description": "Kitchen Plumbing Appliances Installation",
+      "field_259": "12 Kitchen Plumbing Appliances Installation",
+      "code_name": "12 Kitchen Plumbing Appliances Installation",
+      "field_260": "22 12 Kitchen Plumbing Appliances Installation",
+      "field_260_raw": "22 12 Kitchen Plumbing Appliances Installation",
+      "field_416": "10",
+      "field_416_raw": "10",
+      "field_415": "",
+      "field_415_raw": "",
+      "field_418": "22 12",
+      "field_418_raw": "22 12"
+    },
+    {
+      "id": "5f6427f81380bd067a06c0d0",
+      "field_256": "<span class=\"5f6419eafed349067b9f0fa1\">Appliances Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0fa1",
+          "identifier": "Appliances Installation"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb51383fd0678566352\">Plumbing Appliances Installation</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb51383fd0678566352",
+          "identifier": "Plumbing Appliances Installation"
+        }
+      ],
+      "field_253": 13,
+      "code": 13,
+      "field_245": "Radiator Installation",
+      "description": "Radiator Installation",
+      "field_259": "13 Radiator Installation",
+      "code_name": "13 Radiator Installation",
+      "field_260": "22 13 Radiator Installation",
+      "field_260_raw": "22 13 Radiator Installation",
+      "field_416": "10",
+      "field_416_raw": "10",
+      "field_415": "",
+      "field_415_raw": "",
+      "field_418": "22 13",
+      "field_418_raw": "22 13"
+    },
+    {
+      "id": "5f6427f81380bd067a06c0d2",
+      "field_256": "<span class=\"5f6419eafed349067b9f0fa1\">Appliances Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0fa1",
+          "identifier": "Appliances Installation"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb51383fd0678566352\">Plumbing Appliances Installation</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb51383fd0678566352",
+          "identifier": "Plumbing Appliances Installation"
+        }
+      ],
+      "field_253": 14,
+      "code": 14,
+      "field_245": "Washer & Dryer Installation",
+      "description": "Washer & Dryer Installation",
+      "field_259": "14 Washer & Dryer Installation",
+      "code_name": "14 Washer & Dryer Installation",
+      "field_260": "22 14 Washer & Dryer Installation",
+      "field_260_raw": "22 14 Washer & Dryer Installation",
+      "field_416": "10",
+      "field_416_raw": "10",
+      "field_415": "",
+      "field_415_raw": "",
+      "field_418": "22 14",
+      "field_418_raw": "22 14"
+    },
+    {
+      "id": "5f6427f81380bd067a06c0d6",
+      "field_256": "<span class=\"5f6419e9fed349067b9f0f79\">Demolition</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f79",
+          "identifier": "Demolition"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb11383fd06785662c2\">Plumbing Appliances Disconnect/Removal</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb11383fd06785662c2",
+          "identifier": "Plumbing Appliances Disconnect/Removal"
+        }
+      ],
+      "field_253": 21,
+      "code": 21,
+      "field_245": "Kitchen Plumbing Appliances Disconnect/Removal",
+      "description": "Kitchen Plumbing Appliances Disconnect/Removal",
+      "field_259": "21 Kitchen Plumbing Appliances Disconnect/Removal",
+      "code_name": "21 Kitchen Plumbing Appliances Disconnect/Removal",
+      "field_260": "02 21 Kitchen Plumbing Appliances Disconnect/Removal",
+      "field_260_raw": "02 21 Kitchen Plumbing Appliances Disconnect/Removal",
+      "field_416": "20",
+      "field_416_raw": "20",
+      "field_415": "",
+      "field_415_raw": "",
+      "field_418": "02 21",
+      "field_418_raw": "02 21"
+    },
+    {
+      "id": "5f6427f81380bd067a06c0d4",
+      "field_256": "<span class=\"5f6419eafed349067b9f0fa1\">Appliances Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0fa1",
+          "identifier": "Appliances Installation"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb51383fd0678566354\">Non-Plumbing Appliances/Decor Installation</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb51383fd0678566354",
+          "identifier": "Non-Plumbing Appliances/Decor Installation"
+        }
+      ],
+      "field_253": 21,
+      "code": 21,
+      "field_245": "Bathroom Non-Plumbing Appliances/Storage/Decor Installation",
+      "description": "Bathroom Non-Plumbing Appliances/Storage/Decor Installation",
+      "field_259": "21 Bathroom Non-Plumbing Appliances/Storage/Decor Installation",
+      "code_name": "21 Bathroom Non-Plumbing Appliances/Storage/Decor Installation",
+      "field_260": "22 21 Bathroom Non-Plumbing Appliances/Storage/Decor Installation",
+      "field_260_raw": "22 21 Bathroom Non-Plumbing Appliances/Storage/Decor Installation",
+      "field_416": "20",
+      "field_416_raw": "20",
+      "field_415": "",
+      "field_415_raw": "",
+      "field_418": "22 21",
+      "field_418_raw": "22 21"
+    },
+    {
+      "id": "5f6427f81380bd067a06c0da",
+      "field_256": "<span class=\"5f6419e9fed349067b9f0f79\">Demolition</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f79",
+          "identifier": "Demolition"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb11383fd06785662c2\">Plumbing Appliances Disconnect/Removal</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb11383fd06785662c2",
+          "identifier": "Plumbing Appliances Disconnect/Removal"
+        }
+      ],
+      "field_253": 22,
+      "code": 22,
+      "field_245": "Bathroom Plumbing Appliances Disconnect/Removal",
+      "description": "Bathroom Plumbing Appliances Disconnect/Removal",
+      "field_259": "22 Bathroom Plumbing Appliances Disconnect/Removal",
+      "code_name": "22 Bathroom Plumbing Appliances Disconnect/Removal",
+      "field_260": "02 22 Bathroom Plumbing Appliances Disconnect/Removal",
+      "field_260_raw": "02 22 Bathroom Plumbing Appliances Disconnect/Removal",
+      "field_416": "20",
+      "field_416_raw": "20",
+      "field_415": "",
+      "field_415_raw": "",
+      "field_418": "02 22",
+      "field_418_raw": "02 22"
+    },
+    {
+      "id": "5f6427f81380bd067a06c0d8",
+      "field_256": "<span class=\"5f6419eafed349067b9f0fa1\">Appliances Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0fa1",
+          "identifier": "Appliances Installation"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb51383fd0678566354\">Non-Plumbing Appliances/Decor Installation</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb51383fd0678566354",
+          "identifier": "Non-Plumbing Appliances/Decor Installation"
+        }
+      ],
+      "field_253": 22,
+      "code": 22,
+      "field_245": "Kitchen Non-Plumbing Appliances Installation",
+      "description": "Kitchen Non-Plumbing Appliances Installation",
+      "field_259": "22 Kitchen Non-Plumbing Appliances Installation",
+      "code_name": "22 Kitchen Non-Plumbing Appliances Installation",
+      "field_260": "22 22 Kitchen Non-Plumbing Appliances Installation",
+      "field_260_raw": "22 22 Kitchen Non-Plumbing Appliances Installation",
+      "field_416": "20",
+      "field_416_raw": "20",
+      "field_415": "",
+      "field_415_raw": "",
+      "field_418": "22 22",
+      "field_418_raw": "22 22"
+    },
+    {
+      "id": "5f6427f81380bd067a06c0de",
+      "field_256": "<span class=\"5f6419e9fed349067b9f0f79\">Demolition</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f79",
+          "identifier": "Demolition"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb11383fd06785662c2\">Plumbing Appliances Disconnect/Removal</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb11383fd06785662c2",
+          "identifier": "Plumbing Appliances Disconnect/Removal"
+        }
+      ],
+      "field_253": 23,
+      "code": 23,
+      "field_245": "Washer/Dryer Removal",
+      "description": "Washer/Dryer Removal",
+      "field_259": "23 Washer/Dryer Removal",
+      "code_name": "23 Washer/Dryer Removal",
+      "field_260": "02 23 Washer/Dryer Removal",
+      "field_260_raw": "02 23 Washer/Dryer Removal",
+      "field_416": "20",
+      "field_416_raw": "20",
+      "field_415": "",
+      "field_415_raw": "",
+      "field_418": "02 23",
+      "field_418_raw": "02 23"
+    },
+    {
+      "id": "5f6427f81380bd067a06c0dc",
+      "field_256": "<span class=\"5f6419eafed349067b9f0fa1\">Appliances Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0fa1",
+          "identifier": "Appliances Installation"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb51383fd0678566354\">Non-Plumbing Appliances/Decor Installation</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb51383fd0678566354",
+          "identifier": "Non-Plumbing Appliances/Decor Installation"
+        }
+      ],
+      "field_253": 23,
+      "code": 23,
+      "field_245": "Wall Mirror/Shelves Installation",
+      "description": "Wall Mirror/Shelves Installation",
+      "field_259": "23 Wall Mirror/Shelves Installation",
+      "code_name": "23 Wall Mirror/Shelves Installation",
+      "field_260": "22 23 Wall Mirror/Shelves Installation",
+      "field_260_raw": "22 23 Wall Mirror/Shelves Installation",
+      "field_416": "20",
+      "field_416_raw": "20",
+      "field_415": "",
+      "field_415_raw": "",
+      "field_418": "22 23",
+      "field_418_raw": "22 23"
+    },
+    {
+      "id": "5f6427f81380bd067a06c0e2",
+      "field_256": "<span class=\"5f6419e9fed349067b9f0f79\">Demolition</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f79",
+          "identifier": "Demolition"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb11383fd06785662c2\">Plumbing Appliances Disconnect/Removal</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb11383fd06785662c2",
+          "identifier": "Plumbing Appliances Disconnect/Removal"
+        }
+      ],
+      "field_253": 24,
+      "code": 24,
+      "field_245": "Radiator Removal",
+      "description": "Radiator Removal",
+      "field_259": "24 Radiator Removal",
+      "code_name": "24 Radiator Removal",
+      "field_260": "02 24 Radiator Removal",
+      "field_260_raw": "02 24 Radiator Removal",
+      "field_416": "20",
+      "field_416_raw": "20",
+      "field_415": "",
+      "field_415_raw": "",
+      "field_418": "02 24",
+      "field_418_raw": "02 24"
+    },
+    {
+      "id": "5f6427f81380bd067a06c0e0",
+      "field_256": "<span class=\"5f6419eafed349067b9f0fa1\">Appliances Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0fa1",
+          "identifier": "Appliances Installation"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb51383fd0678566354\">Non-Plumbing Appliances/Decor Installation</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb51383fd0678566354",
+          "identifier": "Non-Plumbing Appliances/Decor Installation"
+        }
+      ],
+      "field_253": 24,
+      "code": 24,
+      "field_245": "Window AC Unit Installation",
+      "description": "Window AC Unit Installation",
+      "field_259": "24 Window AC Unit Installation",
+      "code_name": "24 Window AC Unit Installation",
+      "field_260": "22 24 Window AC Unit Installation",
+      "field_260_raw": "22 24 Window AC Unit Installation",
+      "field_416": "20",
+      "field_416_raw": "20",
+      "field_415": "",
+      "field_415_raw": "",
+      "field_418": "22 24",
+      "field_418_raw": "22 24"
+    },
+    {
+      "id": "5f6427f81380bd067a06c0e4",
+      "field_256": "<span class=\"5f6419eafed349067b9f0fa1\">Appliances Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0fa1",
+          "identifier": "Appliances Installation"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb51383fd0678566354\">Non-Plumbing Appliances/Decor Installation</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb51383fd0678566354",
+          "identifier": "Non-Plumbing Appliances/Decor Installation"
+        }
+      ],
+      "field_253": 25,
+      "code": 25,
+      "field_245": "Fireplace Installation",
+      "description": "Fireplace Installation",
+      "field_259": "25 Fireplace Installation",
+      "code_name": "25 Fireplace Installation",
+      "field_260": "22 25 Fireplace Installation",
+      "field_260_raw": "22 25 Fireplace Installation",
+      "field_416": "20",
+      "field_416_raw": "20",
+      "field_415": "",
+      "field_415_raw": "",
+      "field_418": "22 25",
+      "field_418_raw": "22 25"
+    },
+    {
+      "id": "5f6427f81380bd067a06c0e6",
+      "field_256": "<span class=\"5f6419e9fed349067b9f0f79\">Demolition</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f79",
+          "identifier": "Demolition"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb11383fd06785662c4\">Interior Demolition</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb11383fd06785662c4",
+          "identifier": "Interior Demolition"
+        }
+      ],
+      "field_253": 31,
+      "code": 31,
+      "field_245": "Window A/C Unit Removal",
+      "description": "Window A/C Unit Removal",
+      "field_259": "31 Window A/C Unit Removal",
+      "code_name": "31 Window A/C Unit Removal",
+      "field_260": "02 31 Window A/C Unit Removal",
+      "field_260_raw": "02 31 Window A/C Unit Removal",
+      "field_416": "30",
+      "field_416_raw": "30",
+      "field_415": "",
+      "field_415_raw": "",
+      "field_418": "02 31",
+      "field_418_raw": "02 31"
+    },
+    {
+      "id": "5f6427f81380bd067a06c0e8",
+      "field_256": "<span class=\"5f6419e9fed349067b9f0f79\">Demolition</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f79",
+          "identifier": "Demolition"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb11383fd06785662c4\">Interior Demolition</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb11383fd06785662c4",
+          "identifier": "Interior Demolition"
+        }
+      ],
+      "field_253": 32,
+      "code": 32,
+      "field_245": "Cabinets/Shelves Demolition",
+      "description": "Cabinets/Shelves Demolition",
+      "field_259": "32 Cabinets/Shelves Demolition",
+      "code_name": "32 Cabinets/Shelves Demolition",
+      "field_260": "02 32 Cabinets/Shelves Demolition",
+      "field_260_raw": "02 32 Cabinets/Shelves Demolition",
+      "field_416": "30",
+      "field_416_raw": "30",
+      "field_415": "",
+      "field_415_raw": "",
+      "field_418": "02 32",
+      "field_418_raw": "02 32"
+    },
+    {
+      "id": "5f6427f81380bd067a06c0ea",
+      "field_256": "<span class=\"5f6419e9fed349067b9f0f79\">Demolition</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f79",
+          "identifier": "Demolition"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb11383fd06785662c4\">Interior Demolition</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb11383fd06785662c4",
+          "identifier": "Interior Demolition"
+        }
+      ],
+      "field_253": 33,
+      "code": 33,
+      "field_245": "Molding/Trim Demolition",
+      "description": "Molding/Trim Demolition",
+      "field_259": "33 Molding/Trim Demolition",
+      "code_name": "33 Molding/Trim Demolition",
+      "field_260": "02 33 Molding/Trim Demolition",
+      "field_260_raw": "02 33 Molding/Trim Demolition",
+      "field_416": "30",
+      "field_416_raw": "30",
+      "field_415": "",
+      "field_415_raw": "",
+      "field_418": "02 33",
+      "field_418_raw": "02 33"
+    },
+    {
+      "id": "5f6427f81380bd067a06c0ec",
+      "field_256": "<span class=\"5f6419e9fed349067b9f0f79\">Demolition</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f79",
+          "identifier": "Demolition"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb11383fd06785662c4\">Interior Demolition</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb11383fd06785662c4",
+          "identifier": "Interior Demolition"
+        }
+      ],
+      "field_253": 34,
+      "code": 34,
+      "field_245": "Door/Window Demolition",
+      "description": "Door/Window Demolition",
+      "field_259": "34 Door/Window Demolition",
+      "code_name": "34 Door/Window Demolition",
+      "field_260": "02 34 Door/Window Demolition",
+      "field_260_raw": "02 34 Door/Window Demolition",
+      "field_416": "30",
+      "field_416_raw": "30",
+      "field_415": "",
+      "field_415_raw": "",
+      "field_418": "02 34",
+      "field_418_raw": "02 34"
+    },
+    {
+      "id": "5f6427f81380bd067a06c0ee",
+      "field_256": "<span class=\"5f6419e9fed349067b9f0f79\">Demolition</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f79",
+          "identifier": "Demolition"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb11383fd06785662c4\">Interior Demolition</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb11383fd06785662c4",
+          "identifier": "Interior Demolition"
+        }
+      ],
+      "field_253": 35,
+      "code": 35,
+      "field_245": "Bathroom Items Demolition",
+      "description": "Bathroom Items Demolition",
+      "field_259": "35 Bathroom Items Demolition",
+      "code_name": "35 Bathroom Items Demolition",
+      "field_260": "02 35 Bathroom Items Demolition",
+      "field_260_raw": "02 35 Bathroom Items Demolition",
+      "field_416": "30",
+      "field_416_raw": "30",
+      "field_415": "",
+      "field_415_raw": "",
+      "field_418": "02 35",
+      "field_418_raw": "02 35"
+    },
+    {
+      "id": "5f6427f81380bd067a06c0f0",
+      "field_256": "<span class=\"5f6419e9fed349067b9f0f79\">Demolition</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f79",
+          "identifier": "Demolition"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb11383fd06785662c4\">Interior Demolition</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb11383fd06785662c4",
+          "identifier": "Interior Demolition"
+        }
+      ],
+      "field_253": 36,
+      "code": 36,
+      "field_245": "Kitchen Non-Plumbing Appliances Removal",
+      "description": "Kitchen Non-Plumbing Appliances Removal",
+      "field_259": "36 Kitchen Non-Plumbing Appliances Removal",
+      "code_name": "36 Kitchen Non-Plumbing Appliances Removal",
+      "field_260": "02 36 Kitchen Non-Plumbing Appliances Removal",
+      "field_260_raw": "02 36 Kitchen Non-Plumbing Appliances Removal",
+      "field_416": "30",
+      "field_416_raw": "30",
+      "field_415": "",
+      "field_415_raw": "",
+      "field_418": "02 36",
+      "field_418_raw": "02 36"
+    },
+    {
+      "id": "5f6427f91380bd067a06c0f2",
+      "field_256": "<span class=\"5f6419e9fed349067b9f0f79\">Demolition</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f79",
+          "identifier": "Demolition"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb11383fd06785662c4\">Interior Demolition</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb11383fd06785662c4",
+          "identifier": "Interior Demolition"
+        }
+      ],
+      "field_253": 37,
+      "code": 37,
+      "field_245": "Kitchen Cabinets & Countertop Demolition",
+      "description": "Kitchen Cabinets & Countertop Demolition",
+      "field_259": "37 Kitchen Cabinets & Countertop Demolition",
+      "code_name": "37 Kitchen Cabinets & Countertop Demolition",
+      "field_260": "02 37 Kitchen Cabinets & Countertop Demolition",
+      "field_260_raw": "02 37 Kitchen Cabinets & Countertop Demolition",
+      "field_416": "30",
+      "field_416_raw": "30",
+      "field_415": "",
+      "field_415_raw": "",
+      "field_418": "02 37",
+      "field_418_raw": "02 37"
+    },
+    {
+      "id": "5f6427f91380bd067a06c0f4",
+      "field_256": "<span class=\"5f6419e9fed349067b9f0f79\">Demolition</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f79",
+          "identifier": "Demolition"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb11383fd06785662c4\">Interior Demolition</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb11383fd06785662c4",
+          "identifier": "Interior Demolition"
+        }
+      ],
+      "field_253": 38,
+      "code": 38,
+      "field_245": "Wall/Ceiling Attached Surfaces Removal",
+      "description": "Wall/Ceiling Attached Surfaces Removal",
+      "field_259": "38 Wall/Ceiling Attached Surfaces Removal",
+      "code_name": "38 Wall/Ceiling Attached Surfaces Removal",
+      "field_260": "02 38 Wall/Ceiling Attached Surfaces Removal",
+      "field_260_raw": "02 38 Wall/Ceiling Attached Surfaces Removal",
+      "field_416": "30",
+      "field_416_raw": "30",
+      "field_415": "",
+      "field_415_raw": "",
+      "field_418": "02 38",
+      "field_418_raw": "02 38"
+    },
+    {
+      "id": "5f6427f91380bd067a06c0f6",
+      "field_256": "<span class=\"5f6419e9fed349067b9f0f79\">Demolition</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f79",
+          "identifier": "Demolition"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb11383fd06785662c4\">Interior Demolition</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb11383fd06785662c4",
+          "identifier": "Interior Demolition"
+        }
+      ],
+      "field_253": 39,
+      "code": 39,
+      "field_245": "Floor Surfaces Demolition",
+      "description": "Floor Surfaces Demolition",
+      "field_259": "39 Floor Surfaces Demolition",
+      "code_name": "39 Floor Surfaces Demolition",
+      "field_260": "02 39 Floor Surfaces Demolition",
+      "field_260_raw": "02 39 Floor Surfaces Demolition",
+      "field_416": "30",
+      "field_416_raw": "30",
+      "field_415": "",
+      "field_415_raw": "",
+      "field_418": "02 39",
+      "field_418_raw": "02 39"
+    },
+    {
+      "id": "5f6427f91380bd067a06c0f8",
+      "field_256": "<span class=\"5f6419e9fed349067b9f0f79\">Demolition</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f79",
+          "identifier": "Demolition"
+        }
+      ],
+      "field_257": "<span class=\"5f641cb11383fd06785662c4\">Interior Demolition</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb11383fd06785662c4",
+          "identifier": "Interior Demolition"
+        }
+      ],
+      "field_253": 40,
+      "code": 40,
+      "field_245": "Other Items Removal",
+      "description": "Other Items Removal",
+      "field_259": "40 Other Items Removal",
+      "code_name": "40 Other Items Removal",
+      "field_260": "02 40 Other Items Removal",
+      "field_260_raw": "02 40 Other Items Removal",
+      "field_416": "30",
+      "field_416_raw": "30",
+      "field_415": "",
+      "field_415_raw": "",
+      "field_418": "02 40",
+      "field_418_raw": "02 40"
+    }
+]

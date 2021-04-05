@@ -1,0 +1,1532 @@
+[
+    {
+      "id": "5f641cb11383fd06785662bc",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f77\">Site Preparation & Protection</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f77",
+          "identifier": "Site Preparation & Protection"
+        }
+      ],
+      "field_252": "10",
+      "code": "10",
+      "field_244": "Furniture/Hung Items Management",
+      "description": "Furniture/Hung Items Management",
+      "field_258": "10 Furniture/Hung Items Management",
+      "code_name": "10 Furniture/Hung Items Management",
+      "field_261": "01 10 Furniture/Hung Items Management",
+      "full_name": "01 10 Furniture/Hung Items Management"
+    },
+    {
+      "id": "5f641cb21383fd06785662d2",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f7d\">Plumbing</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f7d",
+          "identifier": "Plumbing"
+        }
+      ],
+      "field_252": "10",
+      "code": "10",
+      "field_244": "Major Plumbing",
+      "description": "Major Plumbing",
+      "field_258": "10 Major Plumbing",
+      "code_name": "10 Major Plumbing",
+      "field_261": "04 10 Major Plumbing",
+      "full_name": "04 10 Major Plumbing"
+    },
+    {
+      "id": "5f641cb31383fd0678566302",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f8b\">Flooring & Transitions</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f8b",
+          "identifier": "Flooring & Transitions"
+        }
+      ],
+      "field_252": "10",
+      "code": "10",
+      "field_244": "Engineered Wood / Hardwood Floor Installation",
+      "description": "Engineered Wood / Hardwood Floor Installation",
+      "field_258": "10 Engineered Wood / Hardwood Floor Installation",
+      "code_name": "10 Engineered Wood / Hardwood Floor Installation",
+      "field_261": "11 10 Engineered Wood / Hardwood Floor Installation",
+      "full_name": "11 10 Engineered Wood / Hardwood Floor Installation"
+    },
+    {
+      "id": "5f641cb21383fd06785662d8",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f7f\">Electrical Rough-In</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f7f",
+          "identifier": "Electrical Rough-In"
+        }
+      ],
+      "field_252": "10",
+      "code": "10",
+      "field_244": "Major Electrical",
+      "description": "Major Electrical",
+      "field_258": "10 Major Electrical",
+      "code_name": "10 Major Electrical",
+      "field_261": "05 10 Major Electrical",
+      "full_name": "05 10 Major Electrical"
+    },
+    {
+      "id": "5f641cb21383fd06785662e0",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f83\">Wall & Ceiling Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f83",
+          "identifier": "Wall & Ceiling Installation"
+        }
+      ],
+      "field_252": "10",
+      "code": "10",
+      "field_244": "Gypsum Board Installation - Ceiling - (Sheetrock/Drywall)",
+      "description": "Gypsum Board Installation - Ceiling - (Sheetrock/Drywall)",
+      "field_258": "10 Gypsum Board Installation - Ceiling - (Sheetrock/Drywall)",
+      "code_name": "10 Gypsum Board Installation - Ceiling - (Sheetrock/Drywall)",
+      "field_261": "07 10 Gypsum Board Installation - Ceiling - (Sheetrock/Drywall)",
+      "full_name": "07 10 Gypsum Board Installation - Ceiling - (Sheetrock/Drywall)"
+    },
+    {
+      "id": "5f641cb31383fd067856630e",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f8f\">Restore/Refinish Non-Wood Surfaces</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f8f",
+          "identifier": "Restore/Refinish Non-Wood Surfaces"
+        }
+      ],
+      "field_252": "10",
+      "code": "10",
+      "field_244": "Bathtub Refinish",
+      "description": "Bathtub Refinish",
+      "field_258": "10 Bathtub Refinish",
+      "code_name": "10 Bathtub Refinish",
+      "field_261": "13 10 Bathtub Refinish",
+      "full_name": "13 10 Bathtub Refinish"
+    },
+    {
+      "id": "5f641cb31383fd0678566314",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f91\">Door & Window Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f91",
+          "identifier": "Door & Window Installation"
+        }
+      ],
+      "field_252": "10",
+      "code": "10",
+      "field_244": "Interior Doors",
+      "description": "Interior Doors",
+      "field_258": "10 Interior Doors",
+      "code_name": "10 Interior Doors",
+      "field_261": "14 10 Interior Doors",
+      "full_name": "14 10 Interior Doors"
+    },
+    {
+      "id": "5f641cb21383fd06785662f6",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f89\">Tiling</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f89",
+          "identifier": "Tiling"
+        }
+      ],
+      "field_252": "10",
+      "code": "10",
+      "field_244": "Wall Tile Installation",
+      "description": "Wall Tile Installation",
+      "field_258": "10 Wall Tile Installation",
+      "code_name": "10 Wall Tile Installation",
+      "field_261": "10 10 Wall Tile Installation",
+      "full_name": "10 10 Wall Tile Installation"
+    },
+    {
+      "id": "5f641cb11383fd06785662c6",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f7b\">Interior Framing</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f7b",
+          "identifier": "Interior Framing"
+        }
+      ],
+      "field_252": "10",
+      "code": "10",
+      "field_244": "Wall Framing",
+      "description": "Wall Framing",
+      "field_258": "10 Wall Framing",
+      "code_name": "10 Wall Framing",
+      "field_261": "03 10 Wall Framing",
+      "full_name": "03 10 Wall Framing"
+    },
+    {
+      "id": "5f641cb21383fd06785662ec",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f85\">Floor Leveling/Subfloor/Radiant Flooring Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f85",
+          "identifier": "Floor Leveling/Subfloor/Radiant Flooring Installation"
+        }
+      ],
+      "field_252": "10",
+      "code": "10",
+      "field_244": "Floor Leveling",
+      "description": "Floor Leveling",
+      "field_258": "10 Floor Leveling",
+      "code_name": "10 Floor Leveling",
+      "field_261": "08 10 Floor Leveling",
+      "full_name": "08 10 Floor Leveling"
+    },
+    {
+      "id": "5f641cb41383fd0678566320",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f93\">Wall & Ceiling Preparation/Painting</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f93",
+          "identifier": "Wall & Ceiling Preparation/Painting"
+        }
+      ],
+      "field_252": "10",
+      "code": "10",
+      "field_244": "Repair Drywall Holes/Water Damages",
+      "description": "Repair Drywall Holes/Water Damages",
+      "field_258": "10 Repair Drywall Holes/Water Damages",
+      "code_name": "10 Repair Drywall Holes/Water Damages",
+      "field_261": "15 10 Repair Drywall Holes/Water Damages",
+      "full_name": "15 10 Repair Drywall Holes/Water Damages"
+    },
+    {
+      "id": "5f641cb11383fd06785662c0",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f79\">Demolition</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f79",
+          "identifier": "Demolition"
+        }
+      ],
+      "field_252": "10",
+      "code": "10",
+      "field_244": "Electrical Fixtures Removal",
+      "description": "Electrical Fixtures Removal",
+      "field_258": "10 Electrical Fixtures Removal",
+      "code_name": "10 Electrical Fixtures Removal",
+      "field_261": "02 10 Electrical Fixtures Removal",
+      "full_name": "02 10 Electrical Fixtures Removal"
+    },
+    {
+      "id": "5f641cb51383fd0678566352",
+      "field_255": "<span class=\"5f6419eafed349067b9f0fa1\">Appliances Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0fa1",
+          "identifier": "Appliances Installation"
+        }
+      ],
+      "field_252": "10",
+      "code": "10",
+      "field_244": "Plumbing Appliances Installation",
+      "description": "Plumbing Appliances Installation",
+      "field_258": "10 Plumbing Appliances Installation",
+      "code_name": "10 Plumbing Appliances Installation",
+      "field_261": "22 10 Plumbing Appliances Installation",
+      "full_name": "22 10 Plumbing Appliances Installation"
+    },
+    {
+      "id": "5f641cb51383fd0678566356",
+      "field_255": "<span class=\"5f6419eafed349067b9f0fa3\">Electrical Fixtures</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0fa3",
+          "identifier": "Electrical Fixtures"
+        }
+      ],
+      "field_252": "10",
+      "code": "10",
+      "field_244": "Light Fixture/Ceiling Fan Installation",
+      "description": "Light Fixture/Ceiling Fan Installation",
+      "field_258": "10 Light Fixture/Ceiling Fan Installation",
+      "code_name": "10 Light Fixture/Ceiling Fan Installation",
+      "field_261": "23 10 Light Fixture/Ceiling Fan Installation",
+      "full_name": "23 10 Light Fixture/Ceiling Fan Installation"
+    },
+    {
+      "id": "5f641cb41383fd067856632a",
+      "field_255": "<span class=\"5f6419eafed349067b9f0f95\">Kitchen Cabinets Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0f95",
+          "identifier": "Kitchen Cabinets Installation"
+        }
+      ],
+      "field_252": "10",
+      "code": "10",
+      "field_244": "Kitchen Cabinets & Hardware/Accessories Installation",
+      "description": "Kitchen Cabinets & Hardware/Accessories Installation",
+      "field_258": "10 Kitchen Cabinets & Hardware/Accessories Installation",
+      "code_name": "10 Kitchen Cabinets & Hardware/Accessories Installation",
+      "field_261": "16 10 Kitchen Cabinets & Hardware/Accessories Installation",
+      "full_name": "16 10 Kitchen Cabinets & Hardware/Accessories Installation"
+    },
+    {
+      "id": "5f641cb41383fd067856632e",
+      "field_255": "<span class=\"5f6419eafed349067b9f0f99\">Trim/Molding Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0f99",
+          "identifier": "Trim/Molding Installation"
+        }
+      ],
+      "field_252": "10",
+      "code": "10",
+      "field_244": "Baseboard & Shoe Molding Installation",
+      "description": "Baseboard & Shoe Molding Installation",
+      "field_258": "10 Baseboard & Shoe Molding Installation",
+      "code_name": "10 Baseboard & Shoe Molding Installation",
+      "field_261": "18 10 Baseboard & Shoe Molding Installation",
+      "full_name": "18 10 Baseboard & Shoe Molding Installation"
+    },
+    {
+      "id": "5f641cb41383fd067856633e",
+      "field_255": "<span class=\"5f6419eafed349067b9f0f9b\">Countertop & Backsplash Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0f9b",
+          "identifier": "Countertop & Backsplash Installation"
+        }
+      ],
+      "field_252": "10",
+      "code": "10",
+      "field_244": "Countertop Installation",
+      "description": "Countertop Installation",
+      "field_258": "10 Countertop Installation",
+      "code_name": "10 Countertop Installation",
+      "field_261": "19 10 Countertop Installation",
+      "full_name": "19 10 Countertop Installation"
+    },
+    {
+      "id": "5f641cb41383fd0678566344",
+      "field_255": "<span class=\"5f6419eafed349067b9f0f9d\">Rest Interior Surfaces Preparation/Painting</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0f9d",
+          "identifier": "Rest Interior Surfaces Preparation/Painting"
+        }
+      ],
+      "field_252": "10",
+      "code": "10",
+      "field_244": "Door/Trim Painting",
+      "description": "Door/Trim Painting",
+      "field_258": "10 Door/Trim Painting",
+      "code_name": "10 Door/Trim Painting",
+      "field_261": "20 10 Door/Trim Painting",
+      "full_name": "20 10 Door/Trim Painting"
+    },
+    {
+      "id": "5f641cb51383fd0678566360",
+      "field_255": "<span class=\"5f6419eafed349067b9f0fa5\">Custom Millwork</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0fa5",
+          "identifier": "Custom Millwork"
+        }
+      ],
+      "field_252": "10",
+      "code": "10",
+      "field_244": "Custom Millwork Fabrication",
+      "description": "Custom Millwork Fabrication",
+      "field_258": "10 Custom Millwork Fabrication",
+      "code_name": "10 Custom Millwork Fabrication",
+      "field_261": "24 10 Custom Millwork Fabrication",
+      "full_name": "24 10 Custom Millwork Fabrication"
+    },
+    {
+      "id": "5fafa940d7c3700017d76649",
+      "field_255": "<span class=\"5fafa91e6048210015964467\">remove</span>",
+      "csi_code_l1": [
+        {
+          "id": "5fafa91e6048210015964467",
+          "identifier": "remove"
+        }
+      ],
+      "field_252": "123",
+      "code": "123",
+      "field_244": "removw2",
+      "description": "removw2",
+      "field_258": "123 removw2",
+      "code_name": "123 removw2",
+      "field_261": "123 123 removw2",
+      "full_name": "123 123 removw2"
+    },
+    {
+      "id": "5f641cb21383fd06785662d4",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f7d\">Plumbing</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f7d",
+          "identifier": "Plumbing"
+        }
+      ],
+      "field_252": "20",
+      "code": "20",
+      "field_244": "Bathtub Installation",
+      "description": "Bathtub Installation",
+      "field_258": "20 Bathtub Installation",
+      "code_name": "20 Bathtub Installation",
+      "field_261": "04 20 Bathtub Installation",
+      "full_name": "04 20 Bathtub Installation"
+    },
+    {
+      "id": "5f641cb21383fd06785662da",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f7f\">Electrical Rough-In</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f7f",
+          "identifier": "Electrical Rough-In"
+        }
+      ],
+      "field_252": "20",
+      "code": "20",
+      "field_244": "Outlet Installation",
+      "description": "Outlet Installation",
+      "field_258": "20 Outlet Installation",
+      "code_name": "20 Outlet Installation",
+      "field_261": "05 20 Outlet Installation",
+      "full_name": "05 20 Outlet Installation"
+    },
+    {
+      "id": "5f641cb21383fd06785662e2",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f83\">Wall & Ceiling Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f83",
+          "identifier": "Wall & Ceiling Installation"
+        }
+      ],
+      "field_252": "20",
+      "code": "20",
+      "field_244": "Gypsum Board Installation - Soffits & Columns - (Sheetrock/Drywall)",
+      "description": "Gypsum Board Installation - Soffits & Columns - (Sheetrock/Drywall)",
+      "field_258": "20 Gypsum Board Installation - Soffits & Columns - (Sheetrock/Drywall)",
+      "code_name": "20 Gypsum Board Installation - Soffits & Columns - (Sheetrock/Drywall)",
+      "field_261": "07 20 Gypsum Board Installation - Soffits & Columns - (Sheetrock/Drywall)",
+      "full_name": "07 20 Gypsum Board Installation - Soffits & Columns - (Sheetrock/Drywall)"
+    },
+    {
+      "id": "5f641cb31383fd0678566310",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f8f\">Restore/Refinish Non-Wood Surfaces</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f8f",
+          "identifier": "Restore/Refinish Non-Wood Surfaces"
+        }
+      ],
+      "field_252": "20",
+      "code": "20",
+      "field_244": "Tile Regrouting",
+      "description": "Tile Regrouting",
+      "field_258": "20 Tile Regrouting",
+      "code_name": "20 Tile Regrouting",
+      "field_261": "13 20 Tile Regrouting",
+      "full_name": "13 20 Tile Regrouting"
+    },
+    {
+      "id": "5f641cb31383fd0678566316",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f91\">Door & Window Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f91",
+          "identifier": "Door & Window Installation"
+        }
+      ],
+      "field_252": "20",
+      "code": "20",
+      "field_244": "Sliding/Bi-Folding Doors",
+      "description": "Sliding/Bi-Folding Doors",
+      "field_258": "20 Sliding/Bi-Folding Doors",
+      "code_name": "20 Sliding/Bi-Folding Doors",
+      "field_261": "14 20 Sliding/Bi-Folding Doors",
+      "full_name": "14 20 Sliding/Bi-Folding Doors"
+    },
+    {
+      "id": "5f641cb21383fd06785662f8",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f89\">Tiling</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f89",
+          "identifier": "Tiling"
+        }
+      ],
+      "field_252": "20",
+      "code": "20",
+      "field_244": "Floor Tile Installation",
+      "description": "Floor Tile Installation",
+      "field_258": "20 Floor Tile Installation",
+      "code_name": "20 Floor Tile Installation",
+      "field_261": "10 20 Floor Tile Installation",
+      "full_name": "10 20 Floor Tile Installation"
+    },
+    {
+      "id": "5f641cb11383fd06785662c8",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f7b\">Interior Framing</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f7b",
+          "identifier": "Interior Framing"
+        }
+      ],
+      "field_252": "20",
+      "code": "20",
+      "field_244": "Ceiling Framing",
+      "description": "Ceiling Framing",
+      "field_258": "20 Ceiling Framing",
+      "code_name": "20 Ceiling Framing",
+      "field_261": "03 20 Ceiling Framing",
+      "full_name": "03 20 Ceiling Framing"
+    },
+    {
+      "id": "5f641cb21383fd06785662ee",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f85\">Floor Leveling/Subfloor/Radiant Flooring Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f85",
+          "identifier": "Floor Leveling/Subfloor/Radiant Flooring Installation"
+        }
+      ],
+      "field_252": "20",
+      "code": "20",
+      "field_244": "Cement Board Installation - Floor",
+      "description": "Cement Board Installation - Floor",
+      "field_258": "20 Cement Board Installation - Floor",
+      "code_name": "20 Cement Board Installation - Floor",
+      "field_261": "08 20 Cement Board Installation - Floor",
+      "full_name": "08 20 Cement Board Installation - Floor"
+    },
+    {
+      "id": "5f641cb41383fd0678566322",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f93\">Wall & Ceiling Preparation/Painting</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f93",
+          "identifier": "Wall & Ceiling Preparation/Painting"
+        }
+      ],
+      "field_252": "20",
+      "code": "20",
+      "field_244": "Existing Ceiling Preparation",
+      "description": "Existing Ceiling Preparation",
+      "field_258": "20 Existing Ceiling Preparation",
+      "code_name": "20 Existing Ceiling Preparation",
+      "field_261": "15 20 Existing Ceiling Preparation",
+      "full_name": "15 20 Existing Ceiling Preparation"
+    },
+    {
+      "id": "5f641cb11383fd06785662be",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f77\">Site Preparation & Protection</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f77",
+          "identifier": "Site Preparation & Protection"
+        }
+      ],
+      "field_252": "20",
+      "code": "20",
+      "field_244": "Interior Surface Protection",
+      "description": "Interior Surface Protection",
+      "field_258": "20 Interior Surface Protection",
+      "code_name": "20 Interior Surface Protection",
+      "field_261": "01 20 Interior Surface Protection",
+      "full_name": "01 20 Interior Surface Protection"
+    },
+    {
+      "id": "5f641cb11383fd06785662c2",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f79\">Demolition</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f79",
+          "identifier": "Demolition"
+        }
+      ],
+      "field_252": "20",
+      "code": "20",
+      "field_244": "Plumbing Appliances Disconnect/Removal",
+      "description": "Plumbing Appliances Disconnect/Removal",
+      "field_258": "20 Plumbing Appliances Disconnect/Removal",
+      "code_name": "20 Plumbing Appliances Disconnect/Removal",
+      "field_261": "02 20 Plumbing Appliances Disconnect/Removal",
+      "full_name": "02 20 Plumbing Appliances Disconnect/Removal"
+    },
+    {
+      "id": "5f641cb51383fd0678566354",
+      "field_255": "<span class=\"5f6419eafed349067b9f0fa1\">Appliances Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0fa1",
+          "identifier": "Appliances Installation"
+        }
+      ],
+      "field_252": "20",
+      "code": "20",
+      "field_244": "Non-Plumbing Appliances/Decor Installation",
+      "description": "Non-Plumbing Appliances/Decor Installation",
+      "field_258": "20 Non-Plumbing Appliances/Decor Installation",
+      "code_name": "20 Non-Plumbing Appliances/Decor Installation",
+      "field_261": "22 20 Non-Plumbing Appliances/Decor Installation",
+      "full_name": "22 20 Non-Plumbing Appliances/Decor Installation"
+    },
+    {
+      "id": "5f641cb51383fd0678566358",
+      "field_255": "<span class=\"5f6419eafed349067b9f0fa3\">Electrical Fixtures</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0fa3",
+          "identifier": "Electrical Fixtures"
+        }
+      ],
+      "field_252": "20",
+      "code": "20",
+      "field_244": "Outlet/Light Switch Cover Plate Installation",
+      "description": "Outlet/Light Switch Cover Plate Installation",
+      "field_258": "20 Outlet/Light Switch Cover Plate Installation",
+      "code_name": "20 Outlet/Light Switch Cover Plate Installation",
+      "field_261": "23 20 Outlet/Light Switch Cover Plate Installation",
+      "full_name": "23 20 Outlet/Light Switch Cover Plate Installation"
+    },
+    {
+      "id": "5f641cb41383fd067856632c",
+      "field_255": "<span class=\"5f6419eafed349067b9f0f95\">Kitchen Cabinets Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0f95",
+          "identifier": "Kitchen Cabinets Installation"
+        }
+      ],
+      "field_252": "20",
+      "code": "20",
+      "field_244": "Kitchen Island Installation",
+      "description": "Kitchen Island Installation",
+      "field_258": "20 Kitchen Island Installation",
+      "code_name": "20 Kitchen Island Installation",
+      "field_261": "16 20 Kitchen Island Installation",
+      "full_name": "16 20 Kitchen Island Installation"
+    },
+    {
+      "id": "5f641cb41383fd0678566330",
+      "field_255": "<span class=\"5f6419eafed349067b9f0f99\">Trim/Molding Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0f99",
+          "identifier": "Trim/Molding Installation"
+        }
+      ],
+      "field_252": "20",
+      "code": "20",
+      "field_244": "Crown Molding Installation",
+      "description": "Crown Molding Installation",
+      "field_258": "20 Crown Molding Installation",
+      "code_name": "20 Crown Molding Installation",
+      "field_261": "18 20 Crown Molding Installation",
+      "full_name": "18 20 Crown Molding Installation"
+    },
+    {
+      "id": "5f641cb41383fd0678566340",
+      "field_255": "<span class=\"5f6419eafed349067b9f0f9b\">Countertop & Backsplash Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0f9b",
+          "identifier": "Countertop & Backsplash Installation"
+        }
+      ],
+      "field_252": "20",
+      "code": "20",
+      "field_244": "Backsplash Slab Installation",
+      "description": "Backsplash Slab Installation",
+      "field_258": "20 Backsplash Slab Installation",
+      "code_name": "20 Backsplash Slab Installation",
+      "field_261": "19 20 Backsplash Slab Installation",
+      "full_name": "19 20 Backsplash Slab Installation"
+    },
+    {
+      "id": "5f641cb41383fd0678566346",
+      "field_255": "<span class=\"5f6419eafed349067b9f0f9d\">Rest Interior Surfaces Preparation/Painting</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0f9d",
+          "identifier": "Rest Interior Surfaces Preparation/Painting"
+        }
+      ],
+      "field_252": "20",
+      "code": "20",
+      "field_244": "Crown Molding/Baseboard Painting",
+      "description": "Crown Molding/Baseboard Painting",
+      "field_258": "20 Crown Molding/Baseboard Painting",
+      "code_name": "20 Crown Molding/Baseboard Painting",
+      "field_261": "20 20 Crown Molding/Baseboard Painting",
+      "full_name": "20 20 Crown Molding/Baseboard Painting"
+    },
+    {
+      "id": "5f641cb51383fd0678566362",
+      "field_255": "<span class=\"5f6419eafed349067b9f0fa5\">Custom Millwork</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0fa5",
+          "identifier": "Custom Millwork"
+        }
+      ],
+      "field_252": "20",
+      "code": "20",
+      "field_244": "Custom Millwork Installation",
+      "description": "Custom Millwork Installation",
+      "field_258": "20 Custom Millwork Installation",
+      "code_name": "20 Custom Millwork Installation",
+      "field_261": "24 20 Custom Millwork Installation",
+      "full_name": "24 20 Custom Millwork Installation"
+    },
+    {
+      "id": "5f641cb31383fd0678566304",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f8b\">Flooring & Transitions</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f8b",
+          "identifier": "Flooring & Transitions"
+        }
+      ],
+      "field_252": "20",
+      "code": "20",
+      "field_244": "Carpet Tile Installation",
+      "description": "Carpet Tile Installation",
+      "field_258": "20 Carpet Tile Installation",
+      "code_name": "20 Carpet Tile Installation",
+      "field_261": "11 20 Carpet Tile Installation",
+      "full_name": "11 20 Carpet Tile Installation"
+    },
+    {
+      "id": "5f641cb21383fd06785662d6",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f7d\">Plumbing</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f7d",
+          "identifier": "Plumbing"
+        }
+      ],
+      "field_252": "30",
+      "code": "30",
+      "field_244": "Walk-In Shower - Sheet Waterproofing Membrane Installation",
+      "description": "Walk-In Shower - Sheet Waterproofing Membrane Installation",
+      "field_258": "30 Walk-In Shower - Sheet Waterproofing Membrane Installation",
+      "code_name": "30 Walk-In Shower - Sheet Waterproofing Membrane Installation",
+      "field_261": "04 30 Walk-In Shower - Sheet Waterproofing Membrane Installation",
+      "full_name": "04 30 Walk-In Shower - Sheet Waterproofing Membrane Installation"
+    },
+    {
+      "id": "5f641cb21383fd06785662e4",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f83\">Wall & Ceiling Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f83",
+          "identifier": "Wall & Ceiling Installation"
+        }
+      ],
+      "field_252": "30",
+      "code": "30",
+      "field_244": "Gypsum Board Installation - Interior Walls - (Sheetrock/Drywall)",
+      "description": "Gypsum Board Installation - Interior Walls - (Sheetrock/Drywall)",
+      "field_258": "30 Gypsum Board Installation - Interior Walls - (Sheetrock/Drywall)",
+      "code_name": "30 Gypsum Board Installation - Interior Walls - (Sheetrock/Drywall)",
+      "field_261": "07 30 Gypsum Board Installation - Interior Walls - (Sheetrock/Drywall)",
+      "full_name": "07 30 Gypsum Board Installation - Interior Walls - (Sheetrock/Drywall)"
+    },
+    {
+      "id": "5f641cb21383fd06785662dc",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f7f\">Electrical Rough-In</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f7f",
+          "identifier": "Electrical Rough-In"
+        }
+      ],
+      "field_252": "30",
+      "code": "30",
+      "field_244": "Light Switch Installation",
+      "description": "Light Switch Installation",
+      "field_258": "30 Light Switch Installation",
+      "code_name": "30 Light Switch Installation",
+      "field_261": "05 30 Light Switch Installation",
+      "full_name": "05 30 Light Switch Installation"
+    },
+    {
+      "id": "5f641cb31383fd0678566312",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f8f\">Restore/Refinish Non-Wood Surfaces</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f8f",
+          "identifier": "Restore/Refinish Non-Wood Surfaces"
+        }
+      ],
+      "field_252": "30",
+      "code": "30",
+      "field_244": "Tile Reglaze",
+      "description": "Tile Reglaze",
+      "field_258": "30 Tile Reglaze",
+      "code_name": "30 Tile Reglaze",
+      "field_261": "13 30 Tile Reglaze",
+      "full_name": "13 30 Tile Reglaze"
+    },
+    {
+      "id": "5f641cb31383fd06785662fa",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f89\">Tiling</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f89",
+          "identifier": "Tiling"
+        }
+      ],
+      "field_252": "30",
+      "code": "30",
+      "field_244": "Walk-In Shower Related Tile Installation",
+      "description": "Walk-In Shower Related Tile Installation",
+      "field_258": "30 Walk-In Shower Related Tile Installation",
+      "code_name": "30 Walk-In Shower Related Tile Installation",
+      "field_261": "10 30 Walk-In Shower Related Tile Installation",
+      "full_name": "10 30 Walk-In Shower Related Tile Installation"
+    },
+    {
+      "id": "5f641cb11383fd06785662c4",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f79\">Demolition</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f79",
+          "identifier": "Demolition"
+        }
+      ],
+      "field_252": "30",
+      "code": "30",
+      "field_244": "Interior Demolition",
+      "description": "Interior Demolition",
+      "field_258": "30 Interior Demolition",
+      "code_name": "30 Interior Demolition",
+      "field_261": "02 30 Interior Demolition",
+      "full_name": "02 30 Interior Demolition"
+    },
+    {
+      "id": "5f641cb11383fd06785662ca",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f7b\">Interior Framing</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f7b",
+          "identifier": "Interior Framing"
+        }
+      ],
+      "field_252": "30",
+      "code": "30",
+      "field_244": "Soffit/Column Framing",
+      "description": "Soffit/Column Framing",
+      "field_258": "30 Soffit/Column Framing",
+      "code_name": "30 Soffit/Column Framing",
+      "field_261": "03 30 Soffit/Column Framing",
+      "full_name": "03 30 Soffit/Column Framing"
+    },
+    {
+      "id": "5f641cb21383fd06785662f0",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f85\">Floor Leveling/Subfloor/Radiant Flooring Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f85",
+          "identifier": "Floor Leveling/Subfloor/Radiant Flooring Installation"
+        }
+      ],
+      "field_252": "30",
+      "code": "30",
+      "field_244": "Subfloor Installation",
+      "description": "Subfloor Installation",
+      "field_258": "30 Subfloor Installation",
+      "code_name": "30 Subfloor Installation",
+      "field_261": "08 30 Subfloor Installation",
+      "full_name": "08 30 Subfloor Installation"
+    },
+    {
+      "id": "5f641cb41383fd0678566318",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f91\">Door & Window Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f91",
+          "identifier": "Door & Window Installation"
+        }
+      ],
+      "field_252": "30",
+      "code": "30",
+      "field_244": "Entry/Exterior Doors",
+      "description": "Entry/Exterior Doors",
+      "field_258": "30 Entry/Exterior Doors",
+      "code_name": "30 Entry/Exterior Doors",
+      "field_261": "14 30 Entry/Exterior Doors",
+      "full_name": "14 30 Entry/Exterior Doors"
+    },
+    {
+      "id": "5f641cb41383fd0678566324",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f93\">Wall & Ceiling Preparation/Painting</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f93",
+          "identifier": "Wall & Ceiling Preparation/Painting"
+        }
+      ],
+      "field_252": "30",
+      "code": "30",
+      "field_244": "Existing Wall Preparation",
+      "description": "Existing Wall Preparation",
+      "field_258": "30 Existing Wall Preparation",
+      "code_name": "30 Existing Wall Preparation",
+      "field_261": "15 30 Existing Wall Preparation",
+      "full_name": "15 30 Existing Wall Preparation"
+    },
+    {
+      "id": "5f641cb51383fd067856635a",
+      "field_255": "<span class=\"5f6419eafed349067b9f0fa3\">Electrical Fixtures</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0fa3",
+          "identifier": "Electrical Fixtures"
+        }
+      ],
+      "field_252": "30",
+      "code": "30",
+      "field_244": "Strip Lighting (For Cove Moldings and Undercabinet Lighting)",
+      "description": "Strip Lighting (For Cove Moldings and Undercabinet Lighting)",
+      "field_258": "30 Strip Lighting (For Cove Moldings and Undercabinet Lighting)",
+      "code_name": "30 Strip Lighting (For Cove Moldings and Undercabinet Lighting)",
+      "field_261": "23 30 Strip Lighting (For Cove Moldings and Undercabinet Lighting)",
+      "full_name": "23 30 Strip Lighting (For Cove Moldings and Undercabinet Lighting)"
+    },
+    {
+      "id": "5f641cb41383fd0678566332",
+      "field_255": "<span class=\"5f6419eafed349067b9f0f99\">Trim/Molding Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0f99",
+          "identifier": "Trim/Molding Installation"
+        }
+      ],
+      "field_252": "30",
+      "code": "30",
+      "field_244": "Decorative Trim Installation",
+      "description": "Decorative Trim Installation",
+      "field_258": "30 Decorative Trim Installation",
+      "code_name": "30 Decorative Trim Installation",
+      "field_261": "18 30 Decorative Trim Installation",
+      "full_name": "18 30 Decorative Trim Installation"
+    },
+    {
+      "id": "5f641cb41383fd0678566342",
+      "field_255": "<span class=\"5f6419eafed349067b9f0f9b\">Countertop & Backsplash Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0f9b",
+          "identifier": "Countertop & Backsplash Installation"
+        }
+      ],
+      "field_252": "30",
+      "code": "30",
+      "field_244": "Backslash Tile Installation",
+      "description": "Backslash Tile Installation",
+      "field_258": "30 Backslash Tile Installation",
+      "code_name": "30 Backslash Tile Installation",
+      "field_261": "19 30 Backslash Tile Installation",
+      "full_name": "19 30 Backslash Tile Installation"
+    },
+    {
+      "id": "5f641cb41383fd0678566348",
+      "field_255": "<span class=\"5f6419eafed349067b9f0f9d\">Rest Interior Surfaces Preparation/Painting</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0f9d",
+          "identifier": "Rest Interior Surfaces Preparation/Painting"
+        }
+      ],
+      "field_252": "30",
+      "code": "30",
+      "field_244": "Decorative Wall/Ceiling Trim Painting",
+      "description": "Decorative Wall/Ceiling Trim Painting",
+      "field_258": "30 Decorative Wall/Ceiling Trim Painting",
+      "code_name": "30 Decorative Wall/Ceiling Trim Painting",
+      "field_261": "20 30 Decorative Wall/Ceiling Trim Painting",
+      "full_name": "20 30 Decorative Wall/Ceiling Trim Painting"
+    },
+    {
+      "id": "5f641cb31383fd0678566306",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f8b\">Flooring & Transitions</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f8b",
+          "identifier": "Flooring & Transitions"
+        }
+      ],
+      "field_252": "30",
+      "code": "30",
+      "field_244": "Vinyl Plank/Tile Installation",
+      "description": "Vinyl Plank/Tile Installation",
+      "field_258": "30 Vinyl Plank/Tile Installation",
+      "code_name": "30 Vinyl Plank/Tile Installation",
+      "field_261": "11 30 Vinyl Plank/Tile Installation",
+      "full_name": "11 30 Vinyl Plank/Tile Installation"
+    },
+    {
+      "id": "5f641cb41383fd0678566334",
+      "field_255": "<span class=\"5f6419eafed349067b9f0f99\">Trim/Molding Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0f99",
+          "identifier": "Trim/Molding Installation"
+        }
+      ],
+      "field_252": "40",
+      "code": "40",
+      "field_244": "Decorative On-Door Trim Installation",
+      "description": "Decorative On-Door Trim Installation",
+      "field_258": "40 Decorative On-Door Trim Installation",
+      "code_name": "40 Decorative On-Door Trim Installation",
+      "field_261": "18 40 Decorative On-Door Trim Installation",
+      "full_name": "18 40 Decorative On-Door Trim Installation"
+    },
+    {
+      "id": "5f641cb21383fd06785662de",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f7f\">Electrical Rough-In</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f7f",
+          "identifier": "Electrical Rough-In"
+        }
+      ],
+      "field_252": "40",
+      "code": "40",
+      "field_244": "Light Fixture Rough-In",
+      "description": "Light Fixture Rough-In",
+      "field_258": "40 Light Fixture Rough-In",
+      "code_name": "40 Light Fixture Rough-In",
+      "field_261": "05 40 Light Fixture Rough-In",
+      "full_name": "05 40 Light Fixture Rough-In"
+    },
+    {
+      "id": "5f641cb31383fd06785662fc",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f89\">Tiling</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f89",
+          "identifier": "Tiling"
+        }
+      ],
+      "field_252": "40",
+      "code": "40",
+      "field_244": "Base/Bullnose Trim Tile Installation",
+      "description": "Base/Bullnose Trim Tile Installation",
+      "field_258": "40 Base/Bullnose Trim Tile Installation",
+      "code_name": "40 Base/Bullnose Trim Tile Installation",
+      "field_261": "10 40 Base/Bullnose Trim Tile Installation",
+      "full_name": "10 40 Base/Bullnose Trim Tile Installation"
+    },
+    {
+      "id": "5f641cb11383fd06785662cc",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f7b\">Interior Framing</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f7b",
+          "identifier": "Interior Framing"
+        }
+      ],
+      "field_252": "40",
+      "code": "40",
+      "field_244": "Door Opening Framing",
+      "description": "Door Opening Framing",
+      "field_258": "40 Door Opening Framing",
+      "code_name": "40 Door Opening Framing",
+      "field_261": "03 40 Door Opening Framing",
+      "full_name": "03 40 Door Opening Framing"
+    },
+    {
+      "id": "5f641cb21383fd06785662e6",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f83\">Wall & Ceiling Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f83",
+          "identifier": "Wall & Ceiling Installation"
+        }
+      ],
+      "field_252": "40",
+      "code": "40",
+      "field_244": "Backerboard Installation - Walls",
+      "description": "Backerboard Installation - Walls",
+      "field_258": "40 Backerboard Installation - Walls",
+      "code_name": "40 Backerboard Installation - Walls",
+      "field_261": "07 40 Backerboard Installation - Walls",
+      "full_name": "07 40 Backerboard Installation - Walls"
+    },
+    {
+      "id": "5f641cb21383fd06785662f2",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f85\">Floor Leveling/Subfloor/Radiant Flooring Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f85",
+          "identifier": "Floor Leveling/Subfloor/Radiant Flooring Installation"
+        }
+      ],
+      "field_252": "40",
+      "code": "40",
+      "field_244": "Mortar Bed (Walk-In Shower)",
+      "description": "Mortar Bed (Walk-In Shower)",
+      "field_258": "40 Mortar Bed (Walk-In Shower)",
+      "code_name": "40 Mortar Bed (Walk-In Shower)",
+      "field_261": "08 40 Mortar Bed (Walk-In Shower)",
+      "full_name": "08 40 Mortar Bed (Walk-In Shower)"
+    },
+    {
+      "id": "5f641cb41383fd067856631a",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f91\">Door & Window Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f91",
+          "identifier": "Door & Window Installation"
+        }
+      ],
+      "field_252": "40",
+      "code": "40",
+      "field_244": "Windows",
+      "description": "Windows",
+      "field_258": "40 Windows",
+      "code_name": "40 Windows",
+      "field_261": "14 40 Windows",
+      "full_name": "14 40 Windows"
+    },
+    {
+      "id": "5f641cb41383fd067856634a",
+      "field_255": "<span class=\"5f6419eafed349067b9f0f9d\">Rest Interior Surfaces Preparation/Painting</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0f9d",
+          "identifier": "Rest Interior Surfaces Preparation/Painting"
+        }
+      ],
+      "field_252": "40",
+      "code": "40",
+      "field_244": "Window Sill/Casing/Trim Painting",
+      "description": "Window Sill/Casing/Trim Painting",
+      "field_258": "40 Window Sill/Casing/Trim Painting",
+      "code_name": "40 Window Sill/Casing/Trim Painting",
+      "field_261": "20 40 Window Sill/Casing/Trim Painting",
+      "full_name": "20 40 Window Sill/Casing/Trim Painting"
+    },
+    {
+      "id": "5f641cb41383fd0678566326",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f93\">Wall & Ceiling Preparation/Painting</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f93",
+          "identifier": "Wall & Ceiling Preparation/Painting"
+        }
+      ],
+      "field_252": "40",
+      "code": "40",
+      "field_244": "Ceilings Priming/Painting",
+      "description": "Ceilings Priming/Painting",
+      "field_258": "40 Ceilings Priming/Painting",
+      "code_name": "40 Ceilings Priming/Painting",
+      "field_261": "15 40 Ceilings Priming/Painting",
+      "full_name": "15 40 Ceilings Priming/Painting"
+    },
+    {
+      "id": "5f641cb51383fd067856635c",
+      "field_255": "<span class=\"5f6419eafed349067b9f0fa3\">Electrical Fixtures</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0fa3",
+          "identifier": "Electrical Fixtures"
+        }
+      ],
+      "field_252": "40",
+      "code": "40",
+      "field_244": "Thermostat Installation",
+      "description": "Thermostat Installation",
+      "field_258": "40 Thermostat Installation",
+      "code_name": "40 Thermostat Installation",
+      "field_261": "23 40 Thermostat Installation",
+      "full_name": "23 40 Thermostat Installation"
+    },
+    {
+      "id": "5f641cb31383fd0678566308",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f8b\">Flooring & Transitions</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f8b",
+          "identifier": "Flooring & Transitions"
+        }
+      ],
+      "field_252": "40",
+      "code": "40",
+      "field_244": "Laminate Flooring Installation",
+      "description": "Laminate Flooring Installation",
+      "field_258": "40 Laminate Flooring Installation",
+      "code_name": "40 Laminate Flooring Installation",
+      "field_261": "11 40 Laminate Flooring Installation",
+      "full_name": "11 40 Laminate Flooring Installation"
+    },
+    {
+      "id": "5f641cb31383fd06785662fe",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f89\">Tiling</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f89",
+          "identifier": "Tiling"
+        }
+      ],
+      "field_252": "50",
+      "code": "50",
+      "field_244": "Bathroom Window Tiling",
+      "description": "Bathroom Window Tiling",
+      "field_258": "50 Bathroom Window Tiling",
+      "code_name": "50 Bathroom Window Tiling",
+      "field_261": "10 50 Bathroom Window Tiling",
+      "full_name": "10 50 Bathroom Window Tiling"
+    },
+    {
+      "id": "5f641cb21383fd06785662ce",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f7b\">Interior Framing</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f7b",
+          "identifier": "Interior Framing"
+        }
+      ],
+      "field_252": "50",
+      "code": "50",
+      "field_244": "Window Opening Framing",
+      "description": "Window Opening Framing",
+      "field_258": "50 Window Opening Framing",
+      "code_name": "50 Window Opening Framing",
+      "field_261": "03 50 Window Opening Framing",
+      "full_name": "03 50 Window Opening Framing"
+    },
+    {
+      "id": "5f641cb21383fd06785662e8",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f83\">Wall & Ceiling Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f83",
+          "identifier": "Wall & Ceiling Installation"
+        }
+      ],
+      "field_252": "50",
+      "code": "50",
+      "field_244": "Plywood Installation - Walls",
+      "description": "Plywood Installation - Walls",
+      "field_258": "50 Plywood Installation - Walls",
+      "code_name": "50 Plywood Installation - Walls",
+      "field_261": "07 50 Plywood Installation - Walls",
+      "full_name": "07 50 Plywood Installation - Walls"
+    },
+    {
+      "id": "5f641cb21383fd06785662f4",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f85\">Floor Leveling/Subfloor/Radiant Flooring Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f85",
+          "identifier": "Floor Leveling/Subfloor/Radiant Flooring Installation"
+        }
+      ],
+      "field_252": "50",
+      "code": "50",
+      "field_244": "Heated Flooring System",
+      "description": "Heated Flooring System",
+      "field_258": "50 Heated Flooring System",
+      "code_name": "50 Heated Flooring System",
+      "field_261": "08 50 Heated Flooring System",
+      "full_name": "08 50 Heated Flooring System"
+    },
+    {
+      "id": "5f641cb41383fd067856631c",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f91\">Door & Window Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f91",
+          "identifier": "Door & Window Installation"
+        }
+      ],
+      "field_252": "50",
+      "code": "50",
+      "field_244": "Skylights",
+      "description": "Skylights",
+      "field_258": "50 Skylights",
+      "code_name": "50 Skylights",
+      "field_261": "14 50 Skylights",
+      "full_name": "14 50 Skylights"
+    },
+    {
+      "id": "5f641cb41383fd067856634c",
+      "field_255": "<span class=\"5f6419eafed349067b9f0f9d\">Rest Interior Surfaces Preparation/Painting</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0f9d",
+          "identifier": "Rest Interior Surfaces Preparation/Painting"
+        }
+      ],
+      "field_252": "50",
+      "code": "50",
+      "field_244": "Radiator Cover Painting",
+      "description": "Radiator Cover Painting",
+      "field_258": "50 Radiator Cover Painting",
+      "code_name": "50 Radiator Cover Painting",
+      "field_261": "20 50 Radiator Cover Painting",
+      "full_name": "20 50 Radiator Cover Painting"
+    },
+    {
+      "id": "5f641cb41383fd0678566328",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f93\">Wall & Ceiling Preparation/Painting</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f93",
+          "identifier": "Wall & Ceiling Preparation/Painting"
+        }
+      ],
+      "field_252": "50",
+      "code": "50",
+      "field_244": "Interior Walls Priming/Painting",
+      "description": "Interior Walls Priming/Painting",
+      "field_258": "50 Interior Walls Priming/Painting",
+      "code_name": "50 Interior Walls Priming/Painting",
+      "field_261": "15 50 Interior Walls Priming/Painting",
+      "full_name": "15 50 Interior Walls Priming/Painting"
+    },
+    {
+      "id": "5f641cb41383fd0678566336",
+      "field_255": "<span class=\"5f6419eafed349067b9f0f99\">Trim/Molding Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0f99",
+          "identifier": "Trim/Molding Installation"
+        }
+      ],
+      "field_252": "50",
+      "code": "50",
+      "field_244": "Window Sill Installation",
+      "description": "Window Sill Installation",
+      "field_258": "50 Window Sill Installation",
+      "code_name": "50 Window Sill Installation",
+      "field_261": "18 50 Window Sill Installation",
+      "full_name": "18 50 Window Sill Installation"
+    },
+    {
+      "id": "5f641cb51383fd067856635e",
+      "field_255": "<span class=\"5f6419eafed349067b9f0fa3\">Electrical Fixtures</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0fa3",
+          "identifier": "Electrical Fixtures"
+        }
+      ],
+      "field_252": "50",
+      "code": "50",
+      "field_244": "Vent/Fan Cover Installation",
+      "description": "Vent/Fan Cover Installation",
+      "field_258": "50 Vent/Fan Cover Installation",
+      "code_name": "50 Vent/Fan Cover Installation",
+      "field_261": "23 50 Vent/Fan Cover Installation",
+      "full_name": "23 50 Vent/Fan Cover Installation"
+    },
+    {
+      "id": "5f641cb31383fd067856630a",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f8b\">Flooring & Transitions</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f8b",
+          "identifier": "Flooring & Transitions"
+        }
+      ],
+      "field_252": "50",
+      "code": "50",
+      "field_244": "Threshold Installation",
+      "description": "Threshold Installation",
+      "field_258": "50 Threshold Installation",
+      "code_name": "50 Threshold Installation",
+      "field_261": "11 50 Threshold Installation",
+      "full_name": "11 50 Threshold Installation"
+    },
+    {
+      "id": "5f641cb21383fd06785662d0",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f7b\">Interior Framing</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f7b",
+          "identifier": "Interior Framing"
+        }
+      ],
+      "field_252": "60",
+      "code": "60",
+      "field_244": "Walk-In Shower Related Framing",
+      "description": "Walk-In Shower Related Framing",
+      "field_258": "60 Walk-In Shower Related Framing",
+      "code_name": "60 Walk-In Shower Related Framing",
+      "field_261": "03 60 Walk-In Shower Related Framing",
+      "full_name": "03 60 Walk-In Shower Related Framing"
+    },
+    {
+      "id": "5f641cb31383fd067856630c",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f8b\">Flooring & Transitions</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f8b",
+          "identifier": "Flooring & Transitions"
+        }
+      ],
+      "field_252": "60",
+      "code": "60",
+      "field_244": "Floor Transition Strip Installation",
+      "description": "Floor Transition Strip Installation",
+      "field_258": "60 Floor Transition Strip Installation",
+      "code_name": "60 Floor Transition Strip Installation",
+      "field_261": "11 60 Floor Transition Strip Installation",
+      "full_name": "11 60 Floor Transition Strip Installation"
+    },
+    {
+      "id": "5f641cb31383fd0678566300",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f89\">Tiling</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f89",
+          "identifier": "Tiling"
+        }
+      ],
+      "field_252": "60",
+      "code": "60",
+      "field_244": "Tile Sealant",
+      "description": "Tile Sealant",
+      "field_258": "60 Tile Sealant",
+      "code_name": "60 Tile Sealant",
+      "field_261": "10 60 Tile Sealant",
+      "full_name": "10 60 Tile Sealant"
+    },
+    {
+      "id": "5f641cb21383fd06785662ea",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f83\">Wall & Ceiling Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f83",
+          "identifier": "Wall & Ceiling Installation"
+        }
+      ],
+      "field_252": "60",
+      "code": "60",
+      "field_244": "Green Glue Application & Acoustical Sealant",
+      "description": "Green Glue Application & Acoustical Sealant",
+      "field_258": "60 Green Glue Application & Acoustical Sealant",
+      "code_name": "60 Green Glue Application & Acoustical Sealant",
+      "field_261": "07 60 Green Glue Application & Acoustical Sealant",
+      "full_name": "07 60 Green Glue Application & Acoustical Sealant"
+    },
+    {
+      "id": "5f641cb51383fd067856634e",
+      "field_255": "<span class=\"5f6419eafed349067b9f0f9d\">Rest Interior Surfaces Preparation/Painting</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0f9d",
+          "identifier": "Rest Interior Surfaces Preparation/Painting"
+        }
+      ],
+      "field_252": "60",
+      "code": "60",
+      "field_244": "Radiator Painting",
+      "description": "Radiator Painting",
+      "field_258": "60 Radiator Painting",
+      "code_name": "60 Radiator Painting",
+      "field_261": "20 60 Radiator Painting",
+      "full_name": "20 60 Radiator Painting"
+    },
+    {
+      "id": "5f641cb41383fd0678566338",
+      "field_255": "<span class=\"5f6419eafed349067b9f0f99\">Trim/Molding Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0f99",
+          "identifier": "Trim/Molding Installation"
+        }
+      ],
+      "field_252": "60",
+      "code": "60",
+      "field_244": "Window Trim Installation",
+      "description": "Window Trim Installation",
+      "field_258": "60 Window Trim Installation",
+      "code_name": "60 Window Trim Installation",
+      "field_261": "18 60 Window Trim Installation",
+      "full_name": "18 60 Window Trim Installation"
+    },
+    {
+      "id": "5f641cb51383fd0678566350",
+      "field_255": "<span class=\"5f6419eafed349067b9f0f9d\">Rest Interior Surfaces Preparation/Painting</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0f9d",
+          "identifier": "Rest Interior Surfaces Preparation/Painting"
+        }
+      ],
+      "field_252": "70",
+      "code": "70",
+      "field_244": "Millwork Painting",
+      "description": "Millwork Painting",
+      "field_258": "70 Millwork Painting",
+      "code_name": "70 Millwork Painting",
+      "field_261": "20 70 Millwork Painting",
+      "full_name": "20 70 Millwork Painting"
+    },
+    {
+      "id": "5f641cb41383fd067856633a",
+      "field_255": "<span class=\"5f6419eafed349067b9f0f99\">Trim/Molding Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0f99",
+          "identifier": "Trim/Molding Installation"
+        }
+      ],
+      "field_252": "70",
+      "code": "70",
+      "field_244": "Door Trim Installation",
+      "description": "Door Trim Installation",
+      "field_258": "70 Door Trim Installation",
+      "code_name": "70 Door Trim Installation",
+      "field_261": "18 70 Door Trim Installation",
+      "full_name": "18 70 Door Trim Installation"
+    },
+    {
+      "id": "5f641cb41383fd067856633c",
+      "field_255": "<span class=\"5f6419eafed349067b9f0f99\">Trim/Molding Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0f99",
+          "identifier": "Trim/Molding Installation"
+        }
+      ],
+      "field_252": "80",
+      "code": "80",
+      "field_244": "Cove Molding Installation",
+      "description": "Cove Molding Installation",
+      "field_258": "80 Cove Molding Installation",
+      "code_name": "80 Cove Molding Installation",
+      "field_261": "18 80 Cove Molding Installation",
+      "full_name": "18 80 Cove Molding Installation"
+    },
+    {
+      "id": "5f641cb41383fd067856631e",
+      "field_255": "<span class=\"5f6419e9fed349067b9f0f91\">Door & Window Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f91",
+          "identifier": "Door & Window Installation"
+        }
+      ],
+      "field_252": "90",
+      "code": "90",
+      "field_244": "Door Hardware",
+      "description": "Door Hardware",
+      "field_258": "90 Door Hardware",
+      "code_name": "90 Door Hardware",
+      "field_261": "14 90 Door Hardware",
+      "full_name": "14 90 Door Hardware"
+    }
+]

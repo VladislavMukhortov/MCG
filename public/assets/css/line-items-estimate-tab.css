@@ -1,0 +1,143 @@
+#estimateTab ul {
+    min-height: 200px;
+    list-style-type: none;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 0px;
+    padding: 10px 10px 10px 0px;
+    height: 280px;
+    overflow: auto;
+}
+
+#estimateTab ul li {
+    border: 1px solid #ccc;
+    margin-bottom: 5px;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: bold;
+    border-radius: 5px;
+
+}
+
+#estimateTab ul li:hover, #estimateTab ul li.active {
+    background-color: #eaeaea;
+}
+
+#estimateTab .active, #estimateTab .active:hover {
+    background: #cdcdcd !important;
+    color: #000 !important;
+}
+
+#estimateTab .selected, #estimateTab .selected:hover {
+    background: #0084c4 !important;
+    color: #fff !important;
+}
+
+#estimateTab .table {
+    width: 100%;
+    display: flex;
+    flex-flow: column;
+}
+
+#estimateTab .table__head {
+    padding: 1px 5px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
+    font-weight: bold;
+}
+
+#estimateTab .table__body {
+    width: 100%;
+    display: flex;
+    flex-flow: column;
+
+    min-height: 100px;
+    max-height: 400px;
+    overflow: auto;
+}
+
+#estimateTab .table__row {
+    padding: 1px 5px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+#estimateTab .table--right > div {
+    padding: 2px 10px;
+    min-width: 100px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#estimateTab .table__item-csi-dir.level2 {
+    margin-left: 20px;
+}
+
+#estimateTab .table__item-csi-dir.level3 {
+    margin-left: 40px;
+}
+
+#estimateTab .table__item-csi-dir.level4 {
+    margin-left: 60px;
+}
+
+#estimateTab .form-control.minified {
+    padding: 0 5px;
+    height: auto;
+    width: 50px;
+    text-align: center;
+}
+
+
+#estimateTab .table--right {
+    display: flex;
+}
+
+#estimateTab .drop-hover {
+    background: #ececec;
+    opacity: 0.5;
+}
+
+#estimateTab .empty-tree {
+    justify-self: center;
+    align-self: center;
+    margin-top: 40px;
+    color: #747272;
+}
+
+#estimateTab .new-folder {
+    max-width: 70%;
+
+    display: flex;
+    justify-content: flex-end;
+}
+
+#estimateTab .new-folder > button {
+    margin-left: 10px;
+}
+
+#estimateTab .ni-cross-circle {
+    cursor: pointer;
+}
+
+#estimateTab .total__summary {
+    position: absolute;
+    bottom: -53px;
+}
+
+#estimateTab .total__summary__content {
+    justify-content: normal!important;
+}
+
+.ni-check-circle {
+    cursor: pointer !important;
+    color: #1ee0ac
+}

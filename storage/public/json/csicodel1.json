@@ -1,0 +1,245 @@
+[
+    {
+      "id": "5f6419e9fed349067b9f0f77",
+      "field_251": "01",
+      "code": "01",
+      "field_243": "Site Preparation & Protection",
+      "description": "Site Preparation & Protection",
+      "field_254": "01 Site Preparation & Protection",
+      "full_name": "01 Site Preparation & Protection"
+    },
+    {
+      "id": "5f6419e9fed349067b9f0f79",
+      "field_251": "02",
+      "code": "02",
+      "field_243": "Demolition",
+      "description": "Demolition",
+      "field_254": "02 Demolition",
+      "full_name": "02 Demolition"
+    },
+    {
+      "id": "5f6419e9fed349067b9f0f7b",
+      "field_251": "03",
+      "code": "03",
+      "field_243": "Interior Framing",
+      "description": "Interior Framing",
+      "field_254": "03 Interior Framing",
+      "full_name": "03 Interior Framing"
+    },
+    {
+      "id": "5f6419e9fed349067b9f0f7d",
+      "field_251": "04",
+      "code": "04",
+      "field_243": "Plumbing",
+      "description": "Plumbing",
+      "field_254": "04 Plumbing",
+      "full_name": "04 Plumbing"
+    },
+    {
+      "id": "5f6419e9fed349067b9f0f7f",
+      "field_251": "05",
+      "code": "05",
+      "field_243": "Electrical Rough-In",
+      "description": "Electrical Rough-In",
+      "field_254": "05 Electrical Rough-In",
+      "full_name": "05 Electrical Rough-In"
+    },
+    {
+      "id": "5f6419e9fed349067b9f0f81",
+      "field_251": "06",
+      "code": "06",
+      "field_243": "Insulation/Acoustic Inside Framing",
+      "description": "Insulation/Acoustic Inside Framing",
+      "field_254": "06 Insulation/Acoustic Inside Framing",
+      "full_name": "06 Insulation/Acoustic Inside Framing"
+    },
+    {
+      "id": "5f6419e9fed349067b9f0f83",
+      "field_251": "07",
+      "code": "07",
+      "field_243": "Wall & Ceiling Installation",
+      "description": "Wall & Ceiling Installation",
+      "field_254": "07 Wall & Ceiling Installation",
+      "full_name": "07 Wall & Ceiling Installation"
+    },
+    {
+      "id": "5f6419e9fed349067b9f0f85",
+      "field_251": "08",
+      "code": "08",
+      "field_243": "Floor Leveling/Subfloor/Radiant Flooring Installation",
+      "description": "Floor Leveling/Subfloor/Radiant Flooring Installation",
+      "field_254": "08 Floor Leveling/Subfloor/Radiant Flooring Installation",
+      "full_name": "08 Floor Leveling/Subfloor/Radiant Flooring Installation"
+    },
+    {
+      "id": "5f6419e9fed349067b9f0f87",
+      "field_251": "09",
+      "code": "09",
+      "field_243": "Waterproofing",
+      "description": "Waterproofing",
+      "field_254": "09 Waterproofing",
+      "full_name": "09 Waterproofing"
+    },
+    {
+      "id": "5f6419e9fed349067b9f0f89",
+      "field_251": "10",
+      "code": "10",
+      "field_243": "Tiling",
+      "description": "Tiling",
+      "field_254": "10 Tiling",
+      "full_name": "10 Tiling"
+    },
+    {
+      "id": "5f6419e9fed349067b9f0f8b",
+      "field_251": "11",
+      "code": "11",
+      "field_243": "Flooring & Transitions",
+      "description": "Flooring & Transitions",
+      "field_254": "11 Flooring & Transitions",
+      "full_name": "11 Flooring & Transitions"
+    },
+    {
+      "id": "5f6419e9fed349067b9f0f8d",
+      "field_251": "12",
+      "code": "12",
+      "field_243": "Hardwood Floor Refinishing",
+      "description": "Hardwood Floor Refinishing",
+      "field_254": "12 Hardwood Floor Refinishing",
+      "full_name": "12 Hardwood Floor Refinishing"
+    },
+    {
+      "id": "5fafa91e6048210015964467",
+      "field_251": "123",
+      "code": "123",
+      "field_243": "remove",
+      "description": "remove",
+      "field_254": "123 remove",
+      "full_name": "123 remove"
+    },
+    {
+      "id": "5f6419e9fed349067b9f0f8f",
+      "field_251": "13",
+      "code": "13",
+      "field_243": "Restore/Refinish Non-Wood Surfaces",
+      "description": "Restore/Refinish Non-Wood Surfaces",
+      "field_254": "13 Restore/Refinish Non-Wood Surfaces",
+      "full_name": "13 Restore/Refinish Non-Wood Surfaces"
+    },
+    {
+      "id": "5f6419e9fed349067b9f0f91",
+      "field_251": "14",
+      "code": "14",
+      "field_243": "Door & Window Installation",
+      "description": "Door & Window Installation",
+      "field_254": "14 Door & Window Installation",
+      "full_name": "14 Door & Window Installation"
+    },
+    {
+      "id": "5f6419e9fed349067b9f0f93",
+      "field_251": "15",
+      "code": "15",
+      "field_243": "Wall & Ceiling Preparation/Painting",
+      "description": "Wall & Ceiling Preparation/Painting",
+      "field_254": "15 Wall & Ceiling Preparation/Painting",
+      "full_name": "15 Wall & Ceiling Preparation/Painting"
+    },
+    {
+      "id": "5f6419eafed349067b9f0f95",
+      "field_251": "16",
+      "code": "16",
+      "field_243": "Kitchen Cabinets Installation",
+      "description": "Kitchen Cabinets Installation",
+      "field_254": "16 Kitchen Cabinets Installation",
+      "full_name": "16 Kitchen Cabinets Installation"
+    },
+    {
+      "id": "5f6419eafed349067b9f0f97",
+      "field_251": "17",
+      "code": "17",
+      "field_243": "Wallpaper Installation",
+      "description": "Wallpaper Installation",
+      "field_254": "17 Wallpaper Installation",
+      "full_name": "17 Wallpaper Installation"
+    },
+    {
+      "id": "5f6419eafed349067b9f0f99",
+      "field_251": "18",
+      "code": "18",
+      "field_243": "Trim/Molding Installation",
+      "description": "Trim/Molding Installation",
+      "field_254": "18 Trim/Molding Installation",
+      "full_name": "18 Trim/Molding Installation"
+    },
+    {
+      "id": "5f6419eafed349067b9f0f9b",
+      "field_251": "19",
+      "code": "19",
+      "field_243": "Countertop & Backsplash Installation",
+      "description": "Countertop & Backsplash Installation",
+      "field_254": "19 Countertop & Backsplash Installation",
+      "full_name": "19 Countertop & Backsplash Installation"
+    },
+    {
+      "id": "5f6419eafed349067b9f0f9d",
+      "field_251": "20",
+      "code": "20",
+      "field_243": "Rest Interior Surfaces Preparation/Painting",
+      "description": "Rest Interior Surfaces Preparation/Painting",
+      "field_254": "20 Rest Interior Surfaces Preparation/Painting",
+      "full_name": "20 Rest Interior Surfaces Preparation/Painting"
+    },
+    {
+      "id": "5f6419eafed349067b9f0f9f",
+      "field_251": "21",
+      "code": "21",
+      "field_243": "Acoustic Panels Installation",
+      "description": "Acoustic Panels Installation",
+      "field_254": "21 Acoustic Panels Installation",
+      "full_name": "21 Acoustic Panels Installation"
+    },
+    {
+      "id": "5f6419eafed349067b9f0fa1",
+      "field_251": "22",
+      "code": "22",
+      "field_243": "Appliances Installation",
+      "description": "Appliances Installation",
+      "field_254": "22 Appliances Installation",
+      "full_name": "22 Appliances Installation"
+    },
+    {
+      "id": "5f6419eafed349067b9f0fa3",
+      "field_251": "23",
+      "code": "23",
+      "field_243": "Electrical Fixtures",
+      "description": "Electrical Fixtures",
+      "field_254": "23 Electrical Fixtures",
+      "full_name": "23 Electrical Fixtures"
+    },
+    {
+      "id": "5f6419eafed349067b9f0fa5",
+      "field_251": "24",
+      "code": "24",
+      "field_243": "Custom Millwork",
+      "description": "Custom Millwork",
+      "field_254": "24 Custom Millwork",
+      "full_name": "24 Custom Millwork"
+    },
+    {
+      "id": "5f6419eafed349067b9f0fa7",
+      "field_251": "25",
+      "code": "25",
+      "field_243": "Construction Garbage Disposal/Debris Removal",
+      "description": "Construction Garbage Disposal/Debris Removal",
+      "field_254": "25 Construction Garbage Disposal/Debris Removal",
+      "full_name": "25 Construction Garbage Disposal/Debris Removal"
+    },
+    {
+      "id": "5f6419eafed349067b9f0fa9",
+      "field_251": "26",
+      "code": "26",
+      "field_243": "Completion Cleaning",
+      "description": "Completion Cleaning",
+      "field_254": "26 Completion Cleaning",
+      "full_name": "26 Completion Cleaning"
+    }
+]

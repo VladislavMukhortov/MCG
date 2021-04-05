@@ -1,0 +1,302 @@
+[
+    {
+      "id": "5f642a080c5b48067b8d1099",
+      "field_405": "<span class=\"5f6419eafed349067b9f0fa1\">Appliances Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0fa1",
+          "identifier": "Appliances Installation"
+        }
+      ],
+      "field_406": "<span class=\"5f641cb51383fd0678566354\">Non-Plumbing Appliances/Decor Installation</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb51383fd0678566354",
+          "identifier": "Non-Plumbing Appliances/Decor Installation"
+        }
+      ],
+      "field_407": "<span class=\"5f6427f81380bd067a06c0d4\">Bathroom Non-Plumbing Appliances/Storage/Decor Installation</span>",
+      "csi_code_l3": [
+        {
+          "id": "5f6427f81380bd067a06c0d4",
+          "identifier": "Bathroom Non-Plumbing Appliances/Storage/Decor Installation"
+        }
+      ],
+      "field_404": "Bathroom Decor",
+      "description": "Bathroom Decor",
+      "field_409": "22 21 Bathroom Decor",
+      "full_name": "22 21 Bathroom Decor",
+      "field_419": "22 21",
+      "field_419_raw": "22 21"
+    },
+    {
+      "id": "5f642a080c5b48067b8d109b",
+      "field_405": "<span class=\"5f6419eafed349067b9f0fa1\">Appliances Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0fa1",
+          "identifier": "Appliances Installation"
+        }
+      ],
+      "field_406": "<span class=\"5f641cb51383fd0678566354\">Non-Plumbing Appliances/Decor Installation</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb51383fd0678566354",
+          "identifier": "Non-Plumbing Appliances/Decor Installation"
+        }
+      ],
+      "field_407": "<span class=\"5f6427f81380bd067a06c0d4\">Bathroom Non-Plumbing Appliances/Storage/Decor Installation</span>",
+      "csi_code_l3": [
+        {
+          "id": "5f6427f81380bd067a06c0d4",
+          "identifier": "Bathroom Non-Plumbing Appliances/Storage/Decor Installation"
+        }
+      ],
+      "field_404": "Bathroom Shelves/Cabinets/Mirrors",
+      "description": "Bathroom Shelves/Cabinets/Mirrors",
+      "field_409": "22 21 Bathroom Shelves/Cabinets/Mirrors",
+      "full_name": "22 21 Bathroom Shelves/Cabinets/Mirrors",
+      "field_419": "22 21",
+      "field_419_raw": "22 21"
+    },
+    {
+      "id": "5f642a080c5b48067b8d109d",
+      "field_405": "<span class=\"5f6419eafed349067b9f0fa1\">Appliances Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0fa1",
+          "identifier": "Appliances Installation"
+        }
+      ],
+      "field_406": "<span class=\"5f641cb51383fd0678566354\">Non-Plumbing Appliances/Decor Installation</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb51383fd0678566354",
+          "identifier": "Non-Plumbing Appliances/Decor Installation"
+        }
+      ],
+      "field_407": "<span class=\"5f6427f81380bd067a06c0d4\">Bathroom Non-Plumbing Appliances/Storage/Decor Installation</span>",
+      "csi_code_l3": [
+        {
+          "id": "5f6427f81380bd067a06c0d4",
+          "identifier": "Bathroom Non-Plumbing Appliances/Storage/Decor Installation"
+        }
+      ],
+      "field_404": "Bathroom Vanity",
+      "description": "Bathroom Vanity",
+      "field_409": "22 21 Bathroom Vanity",
+      "full_name": "22 21 Bathroom Vanity",
+      "field_419": "22 21",
+      "field_419_raw": "22 21"
+    },
+    {
+      "id": "5f642a080c5b48067b8d109f",
+      "field_405": "<span class=\"5f6419e9fed349067b9f0f91\">Door & Window Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f91",
+          "identifier": "Door & Window Installation"
+        }
+      ],
+      "field_406": "<span class=\"5f641cb31383fd0678566314\">Interior Doors</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb31383fd0678566314",
+          "identifier": "Interior Doors"
+        }
+      ],
+      "field_407": "<span class=\"5f6427f81380bd067a06c0cc\">Interior Slab Doors & Frames (Not Prehung)</span>",
+      "csi_code_l3": [
+        {
+          "id": "5f6427f81380bd067a06c0cc",
+          "identifier": "Interior Slab Doors & Frames (Not Prehung)"
+        }
+      ],
+      "field_404": "Door Frame/Jamb Installation",
+      "description": "Door Frame/Jamb Installation",
+      "field_409": "14 12 Door Frame/Jamb Installation",
+      "full_name": "14 12 Door Frame/Jamb Installation",
+      "field_419": "14 12",
+      "field_419_raw": "14 12"
+    },
+    {
+      "id": "5f642a080c5b48067b8d10a1",
+      "field_405": "<span class=\"5f6419eafed349067b9f0fa1\">Appliances Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419eafed349067b9f0fa1",
+          "identifier": "Appliances Installation"
+        }
+      ],
+      "field_406": "<span class=\"5f641cb51383fd0678566354\">Non-Plumbing Appliances/Decor Installation</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb51383fd0678566354",
+          "identifier": "Non-Plumbing Appliances/Decor Installation"
+        }
+      ],
+      "field_407": "<span class=\"5f6427f81380bd067a06c0d4\">Bathroom Non-Plumbing Appliances/Storage/Decor Installation</span>",
+      "csi_code_l3": [
+        {
+          "id": "5f6427f81380bd067a06c0d4",
+          "identifier": "Bathroom Non-Plumbing Appliances/Storage/Decor Installation"
+        }
+      ],
+      "field_404": "Glass Shower Door",
+      "description": "Glass Shower Door",
+      "field_409": "22 21 Glass Shower Door",
+      "full_name": "22 21 Glass Shower Door",
+      "field_419": "22 21",
+      "field_419_raw": "22 21"
+    },
+    {
+      "id": "5f645372ec541300161a5327",
+      "field_405": "<span class=\"5f6419e9fed349067b9f0f83\">Wall & Ceiling Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f83",
+          "identifier": "Wall & Ceiling Installation"
+        }
+      ],
+      "field_406": "<span class=\"5f641cb21383fd06785662e0\">Gypsum Board Installation - Ceiling - (Sheetrock/Drywall)</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb21383fd06785662e0",
+          "identifier": "Gypsum Board Installation - Ceiling - (Sheetrock/Drywall)"
+        }
+      ],
+      "field_407": "<span class=\"5f6427f91380bd067a06c108\">Ceiling Gypsum - Heights Over 8'</span>",
+      "csi_code_l3": [
+        {
+          "id": "5f6427f91380bd067a06c108",
+          "identifier": "Ceiling Gypsum - Heights Over 8'"
+        }
+      ],
+      "field_404": "Gypsum Installation - Ceiling (Area Over 50 SF)",
+      "description": "Gypsum Installation - Ceiling (Area Over 50 SF)",
+      "field_409": " Gypsum Installation - Ceiling (Area Over 50 SF)",
+      "full_name": " Gypsum Installation - Ceiling (Area Over 50 SF)",
+      "field_419": "07 10",
+      "field_419_raw": "07 10"
+    },
+    {
+      "id": "5f645357acbd11001b2c38e2",
+      "field_405": "<span class=\"5f6419e9fed349067b9f0f83\">Wall & Ceiling Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f83",
+          "identifier": "Wall & Ceiling Installation"
+        }
+      ],
+      "field_406": "<span class=\"5f641cb21383fd06785662e0\">Gypsum Board Installation - Ceiling - (Sheetrock/Drywall)</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb21383fd06785662e0",
+          "identifier": "Gypsum Board Installation - Ceiling - (Sheetrock/Drywall)"
+        }
+      ],
+      "field_407": "<span class=\"5f6427f91380bd067a06c106\">Ceiling Gypsum - Heights Up To 8'</span>",
+      "csi_code_l3": [
+        {
+          "id": "5f6427f91380bd067a06c106",
+          "identifier": "Ceiling Gypsum - Heights Up To 8'"
+        }
+      ],
+      "field_404": "Gypsum Installation - Ceiling (Area Over 50 SF)",
+      "description": "Gypsum Installation - Ceiling (Area Over 50 SF)",
+      "field_409": " Gypsum Installation - Ceiling (Area Over 50 SF)",
+      "full_name": " Gypsum Installation - Ceiling (Area Over 50 SF)",
+      "field_419": "07 10",
+      "field_419_raw": "07 10"
+    },
+    {
+      "id": "5f642a080c5b48067b8d10a9",
+      "field_405": "<span class=\"5f6419e9fed349067b9f0f83\">Wall & Ceiling Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f83",
+          "identifier": "Wall & Ceiling Installation"
+        }
+      ],
+      "field_406": "<span class=\"5f641cb21383fd06785662e0\">Gypsum Board Installation - Ceiling - (Sheetrock/Drywall)</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb21383fd06785662e0",
+          "identifier": "Gypsum Board Installation - Ceiling - (Sheetrock/Drywall)"
+        }
+      ],
+      "field_407": "<span class=\"5f6427f91380bd067a06c106\">Ceiling Gypsum - Heights Up To 8'</span>",
+      "csi_code_l3": [
+        {
+          "id": "5f6427f91380bd067a06c106",
+          "identifier": "Ceiling Gypsum - Heights Up To 8'"
+        }
+      ],
+      "field_404": "Gypsum Installation - Ceiling (Area Under 50 SF)",
+      "description": "Gypsum Installation - Ceiling (Area Under 50 SF)",
+      "field_409": "07 10 Gypsum Installation - Ceiling (Area Under 50 SF)",
+      "full_name": "07 10 Gypsum Installation - Ceiling (Area Under 50 SF)",
+      "field_419": "07 10",
+      "field_419_raw": "07 10"
+    },
+    {
+      "id": "5f642a080c5b48067b8d10a7",
+      "field_405": "<span class=\"5f6419e9fed349067b9f0f83\">Wall & Ceiling Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f83",
+          "identifier": "Wall & Ceiling Installation"
+        }
+      ],
+      "field_406": "<span class=\"5f641cb21383fd06785662e0\">Gypsum Board Installation - Ceiling - (Sheetrock/Drywall)</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb21383fd06785662e0",
+          "identifier": "Gypsum Board Installation - Ceiling - (Sheetrock/Drywall)"
+        }
+      ],
+      "field_407": "<span class=\"5f6427f91380bd067a06c108\">Ceiling Gypsum - Heights Over 8'</span>",
+      "csi_code_l3": [
+        {
+          "id": "5f6427f91380bd067a06c108",
+          "identifier": "Ceiling Gypsum - Heights Over 8'"
+        }
+      ],
+      "field_404": "Gypsum Installation - Ceiling (Area Under 50 SF)",
+      "description": "Gypsum Installation - Ceiling (Area Under 50 SF)",
+      "field_409": "07 10 Gypsum Installation - Ceiling (Area Under 50 SF)",
+      "full_name": "07 10 Gypsum Installation - Ceiling (Area Under 50 SF)",
+      "field_419": "07 10",
+      "field_419_raw": "07 10"
+    },
+    {
+      "id": "5f642a080c5b48067b8d10ab",
+      "field_405": "<span class=\"5f6419e9fed349067b9f0f91\">Door & Window Installation</span>",
+      "csi_code_l1": [
+        {
+          "id": "5f6419e9fed349067b9f0f91",
+          "identifier": "Door & Window Installation"
+        }
+      ],
+      "field_406": "<span class=\"5f641cb31383fd0678566314\">Interior Doors</span>",
+      "csi_code_l2": [
+        {
+          "id": "5f641cb31383fd0678566314",
+          "identifier": "Interior Doors"
+        }
+      ],
+      "field_407": "<span class=\"5f6427f81380bd067a06c0cc\">Interior Slab Doors & Frames (Not Prehung)</span>",
+      "csi_code_l3": [
+        {
+          "id": "5f6427f81380bd067a06c0cc",
+          "identifier": "Interior Slab Doors & Frames (Not Prehung)"
+        }
+      ],
+      "field_404": "Interior Slab Door Installation",
+      "description": "Interior Slab Door Installation",
+      "field_409": "14 12 Interior Slab Door Installation",
+      "full_name": "14 12 Interior Slab Door Installation",
+      "field_419": "14 12",
+      "field_419_raw": "14 12"
+    }
+]

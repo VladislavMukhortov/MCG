@@ -1,0 +1,9 @@
+image: atlassian/default-image:latest
+
+pipelines:
+  branches:
+    develop:
+      - step:
+          name: ssh to server and pull changes
+          script:
+            - cat ./deploy.sh | ssh -T $user@$host
